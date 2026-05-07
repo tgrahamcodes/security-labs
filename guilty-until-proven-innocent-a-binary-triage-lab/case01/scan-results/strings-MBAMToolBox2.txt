@@ -1,0 +1,875 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+F%(8
+$%(8
+F%(8
+$%(8
+F%(8
+$%(8
+F%(8
+$%(8
+F%(8
+$%(8
+F%(8
+$%(8
+"%(8
+"%(8
+*.sY
+,2~<
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+$I52-0
+_Lambda$__52-0
+$I55-0
+_Lambda$__55-0
+$I52-1
+_Lambda$__52-1
+IEnumerable`1
+Predicate`1
+ThreadSafeObjectProvider`1
+List`1
+get_SaveFileDialog1
+set_SaveFileDialog1
+get_Label1
+set_Label1
+m_Form1
+get_Form1
+set_Form1
+get_Button1
+set_Button1
+get_ComboBox1
+set_ComboBox1
+$I52-2
+_Lambda$__52-2
+Int32
+get_license_2
+Mynamespace2
+SaveEmbeddedResourcesFile2
+get_Label2
+set_Label2
+resFilestream2
+get_Button2
+set_Button2
+SaveFileFromResources2
+Exeassembly2
+$I52-3
+_Lambda$__52-3
+get_license_3
+Mynamespace3
+SaveEmbeddedResourcesFile3
+get_Label3
+set_Label3
+resFilestream3
+get_Button3
+set_Button3
+SaveFileFromResources3
+Exeassembly3
+Mynamespace4
+SaveEmbeddedResourcesFile4
+get_Label4
+set_Label4
+resFilestream4
+get_Button4
+set_Button4
+SaveFileFromResources4
+Exeassembly4
+Mynamespace5
+SaveEmbeddedResourcesFile5
+get_Label5
+set_Label5
+resFilestream5
+SaveFileFromResources5
+Exeassembly5
+Mynamespace6
+SaveEmbeddedResourcesFile6
+get_Label6
+set_Label6
+resFilestream6
+SaveFileFromResources6
+Exeassembly6
+get_Button7
+set_Button7
+get_Button8
+set_Button8
+get_Button9
+set_Button9
+<Module>
+SizeF
+nCHK
+System.IO
+MBMT
+get_X
+get_Y
+_Closure$__
+Dispose__Instance__
+Create__Instance__
+ProjectData
+mscorlib
+set_Verb
+System.Collections.Generic
+Microsoft.VisualBasic
+Form1_Load
+add_Load
+set_FormattingEnabled
+get_IsDisposed
+m_FormBeingCreated
+Synchronized
+ReadToEnd
+CompareMethod
+Mynamespace
+set_IsSingleInstance
+CreateInstance
+get_GetInstance
+defaultInstance
+instance
+GetHashCode
+set_AutoScaleMode
+FileMode
+AuthenticationMode
+ShutdownMode
+get_license_free
+set_BackgroundImage
+get_Message
+AddRange
+get_DarkOrange
+get_WhiteSmoke
+IDisposable
+Hashtable
+RuntimeTypeHandle
+GetTypeFromHandle
+RenameFile
+SaveEmbeddedResourcesFile
+set_Title
+set_ShutdownStyle
+set_BorderStyle
+set_FormBorderStyle
+set_FlatStyle
+FontStyle
+set_WindowStyle
+ProcessWindowStyle
+MsgBoxStyle
+get_Name
+set_Name
+set_AccessibleName
+get_FileName
+set_FileName
+GetName
+GetProcessesByName
+AssemblyName
+DateTime
+WriteLine
+CheckForSyncLockOnValueType
+GetType
+FileShare
+get_Culture
+set_Culture
+resourceCulture
+WindowsFormsApplicationBase
+ButtonBase
+ApplicationSettingsBase
+get_license
+FileClose
+Dispose
+Create
+DebuggerBrowsableState
+EditorBrowsableState
+Delete
+ThreadStaticAttribute
+STAThreadAttribute
+CompilerGeneratedAttribute
+DesignerGeneratedAttribute
+GuidAttribute
+HelpKeywordAttribute
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+DebuggableAttribute
+DebuggerBrowsableAttribute
+EditorBrowsableAttribute
+ComVisibleAttribute
+AssemblyTitleAttribute
+StandardModuleAttribute
+HideModuleNameAttribute
+DebuggerStepThroughAttribute
+AssemblyTrademarkAttribute
+TargetFrameworkAttribute
+DebuggerHiddenAttribute
+AssemblyFileVersionAttribute
+MyGroupCollectionAttribute
+AssemblyDescriptionAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+AccessedThroughPropertyAttribute
+set_UseShellExecute
+ReadByte
+WriteByte
+m_ThreadStaticValue
+WithEventsValue
+GetObjectValue
+AutoPropertyValue
+Save
+Form1_MouseMove
+add_MouseMove
+Remove
+MBAMToolBox.exe
+set_Size
+set_AutoSize
+set_ClientSize
+get_net_conf
+get_drag
+set_drag
+System.Threading
+System.Runtime.Versioning
+get_UseCompatibleTextRendering
+GetResourceString
+ToString
+disposing
+System.Drawing
+SaveFileDialog
+OpenFileDialog
+CommonDialog
+ShowDialog
+GetFolderPath
+get_Length
+Button1_Click
+Label2_Click
+Button2_Click
+Button3_Click
+Button4_Click
+Button7_Click
+Button8_Click
+Button9_Click
+add_Click
+remove_Click
+ConditionalCompareObjectEqual
+Label
+System.ComponentModel
+Kill
+ContainerControl
+ListControl
+ObjectFlowControl
+GetManifestResourceStream
+FileStream
+resFilestream
+get_SelectedItem
+get_FileSystem
+set_MainForm
+OnCreateMainForm
+resourceMan
+System.ComponentModel.Design
+Main
+set_Icon
+get_Application
+MyApplication
+set_Location
+System.Configuration
+System.Globalization
+Interaction
+System.Reflection
+ControlCollection
+ObjectCollection
+get_Position
+set_StartPosition
+FormStartPosition
+NullReferenceException
+TargetInvocationException
+InvalidOperationException
+get_InnerException
+ArgumentException
+set_AccessibleDescription
+Button
+Form1_MouseDown
+add_MouseDown
+add_Shutdown
+LocationTosavefileTo
+CultureInfo
+ProcessStartInfo
+DirectoryInfo
+get_mblogo
+get_Gainsboro
+Form1_MouseUp
+add_MouseUp
+Bitmap
+get_Top
+set_Top
+StreamReader
+m_AppObjectProvider
+m_UserObjectProvider
+m_ComputerObjectProvider
+m_MyWebServicesObjectProvider
+m_MyFormsObjectProvider
+MBFolder
+SpecialFolder
+sender
+get_ResourceManager
+ComponentResourceManager
+addedHandler
+MouseEventHandler
+ShutdownEventHandler
+System.CodeDom.Compiler
+IContainer
+get_User
+StreamWriter
+TextWriter
+set_Filter
+Enter
+get_Computer
+ServerComputer
+MyComputer
+set_ForeColor
+set_BackColor
+set_UseVisualStyleBackColor
+ClearProjectError
+SetProjectError
+Cursor
+Activator
+.ctor
+.cctor
+Monitor
+System.Diagnostics
+Microsoft.VisualBasic.Devices
+get_WebServices
+MyWebServices
+Microsoft.VisualBasic.ApplicationServices
+System.Runtime.InteropServices
+Microsoft.VisualBasic.CompilerServices
+System.Runtime.CompilerServices
+Microsoft.VisualBasic.MyServices
+System.Resources
+MBAMToolBox.My.Resources
+SaveFileFromResources
+FileInResources
+MBAMToolBox.Form1.resources
+MBAMToolBox.Resources.resources
+DebuggingModes
+set_EnableVisualStyles
+ReadAllLines
+WriteAllLines
+FileAttributes
+SetAttributes
+WriteAllBytes
+Strings
+get_Settings
+AutoSaveSettings
+MySettings
+MouseEventArgs
+ReferenceEquals
+Utils
+get_Controls
+get_Items
+System.Windows.Forms
+get_Forms
+MyForms
+Contains
+set_AutoScaleDimensions
+Conversions
+System.Collections
+MessageBoxButtons
+RuntimeHelpers
+SystemColors
+Operators
+FileAccess
+Process
+components
+Exists
+RemoveAt
+Concat
+addedHandlerLockObject
+GetObject
+MyProject
+get_net
+get_Left
+set_Left
+Split
+GraphicsUnit
+get_SaveMySettingsOnExit
+set_SaveMySettingsOnExit
+WaitForExit
+get_Default
+SetCompatibleTextRenderingDefault
+DialogResult
+MsgBoxResult
+Environment
+InitializeComponent
+get_Transparent
+Point
+set_Font
+Start
+Insert
+Host
+SuspendLayout
+set_BackgroundImageLayout
+ResumeLayout
+PerformLayout
+set_DefaultExt
+set_Text
+get_ActiveCaptionText
+get_Now
+get_Window
+set_CreateNoWindow
+Show
+set_TabIndex
+FindIndex
+set_FilterIndex
+get_mousex
+set_mousex
+MessageBox
+MsgBox
+MBAMToolBox
+ComboBox
+MBAMToolBox.My
+get_DimGray
+ToArray
+ContainsKey
+get_mousey
+set_mousey
+get_Assembly
+GetExecutingAssembly
+fileToGetFromAssembly
+Exeassembly
+Copy
+set_RestoreDirectory
+CreateDirectory
+set_WorkingDirectory
+set_InitialDirectory
+MySettingsProperty
+FileSystemProxy
+WrapNonExceptionThrows
+MBAM ToolBox 2.2
+MBAM ToolBox 2.2 [SLEDGE101]
+MalwareBytes.org
+MBAM Tools 2.0
+6Copyright 
+  2015 Malwarebytes.  All rights reserved.
+5Trademark
+  2015 Malwarebytes.  All rights reserved.
+$9838bdcf-b526-4aeb-9214-c557d4a0ba4b
+2.2.0.0
+.NETFramework,Version=v4.0
+FrameworkDisplayName
+.NET Framework 4
+Label1
+Label2
+Button1
+Button2
+Button4
+Button8
+Label5
+Label3
+	ComboBox1
+Label6
+SaveFileDialog1
+Label4
+Button3
+Button7
+Button9
+MyTemplate
+11.0.0.0
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+11.0.0.0
+System.Windows.Forms.Form
+Create__Instance__
+Dispose__Instance__
+My.MyProject.Forms
+4System.Web.Services.Protocols.SoapHttpClientProtocol
+Create__Instance__
+Dispose__Instance__
+My.Settings
+My.Computer
+My.Application
+My.User
+My.Forms
+My.WebServices
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+fSystem.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aBj
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Icon
+IconData
+IconSize
+System.Drawing.Size
+System.Drawing.Size
+width
+height
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+hSystem.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aPADPAD
+$y,>3"=
+XD!S
+kv3H
+W#I'-h
+6l`7x
+G}K|
+A04]tH
+Kx*b
+v7r^q
+<y<	
+Duz5C
+k!Jh
+3Wym
+s\&C[
+Lmg2
+ktyw\
+5Qqi%
+dE:w
+1q%	sk
+ZM6CK4b8
+5 M@<J&
+=aLXj
+:+ew
+]53a
+z*5A
+scVKi
+;R/#
+Tm|0a
+cuSp,\
+9#)X
+pu9#eS
+<:>`
+WVr)
+	/TM
+'}ym
+6BRX
+@DYdP
+kM43
+[Hq1
+	+A\
+Gs|JZ!
+fF)d
+'<3F
+@]pK
+r>kZ&&
+yv;WO;
+5 0+p
+gOx#
+z928Y
+O|oYO
+m-t	cR
+7ts9
+k5 _
+p	Ct?
+$ia2h
+1)L,8
+Z4%WoO
+Zk8I
+tu.g
+HWec
+q?r5
+nt"_
+t=?y
+6BR\
+Mwkv\
+qM.+
+;EPsq
+X\:G^
+5+2\
+gWwa)
+Di{!
+Ns3Xx,`9
+(G0_(v
+.6,3
+&P"BC
+tZto
+D/Ni
+q-.2
+jpq3`
+zC_.4
+A$y-
+%%\7r^%
+p\ p7
+inuz5C
+m2Xi
+Tm$A
+-U6C
+N"Ay
+)GnK
+QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.Bitmap
+Data
+JFIF
+$3br
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+	#3R
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+rxV=
+NJpvh
+^Ugg>
+/qq3
+n-n#h
+;/,B[b
+*-OR
+)Cgy
+|gey
+cAt.
+	.a#
+-[kn
+%bRpX
+(,Nt
+Z	&7
+xcf2*
+x<x"
+{{h8
+m9 4
+ou}#[
+{=D<
+Z7gd
+yPA4q
+xnVH
+5-GW
+]z}B
+l-n,>
+ @?w
+tbo(
+,c8{
+"(#.
+E:U+K
+?R+j
+rFp@
+(gv8,
+|M~.lS~
+ZN8j
+c3\T&
+IZ*:}
+brN}
+a$2x
+_+;?
+3Io2K
+2pjQvh
+Mh}i
+}/%t
+f93c
+<6wG
+\D\d
+X57+
+u82m
+c);(
+c1xl.
+_[_B
+ieu^M:s
+xLEyA
+k?1`
+9:soK]
+Wim=
+s6u&v
+,zn6
+_rMx
+g?-7
+8$O~
+p_'a8
+}=~(
+]W=S
+h@8,
+`9tA
+Op	B
+A!+;F
+pOog)
+dI>s
+r>kZ&&
+G|3EI&!0
+hv8W7f
+Tx@7
+Uya?\M
+0^AQY
+3,tc
+P928
+uk_N
+>{mY7~
+8lkF
+R8Zn
+S;(<Ax
+h\_6
+"&j~n
+X=} 
+ZClr
+ d==
+.a8.
+t%E_
+p8G|
+I,zC
+Jv]/
+g	,Y
+}l#?%S
+ 3R.
+J=g=
+6Ni0
+|,r+;
+#H{"
+hGAB!
+{ &M
+L>J0n
+lx\V
+'ECN@
+xl_{
+i=|>
+jC9t
+i0}8$
+TYm'
+HzmT
+GkYqd
+2^,P
+EH/vDj^
+_)0=!
+5:,M
+T![xML
+'aZ}nv
+7YT*k
+:0a(
+Z@S~2
+V?&S
+c|z1
+tCw8 
+O:yX|J
+@kh@
+qe`<
+{V-o#
+Cn1?s
+|8V}
+q9ht
+Co)A
+U<,S
+nCN 0
+7\)/Q
+VJZ!
+aWai5
+eA4x
+r>kZ&+
+Os)B|qR 
+.aEb\i C
+?9tr
+"I7L
+m.8_
+Pvb}
+di[Ln9
+z_}hh
+U/NI
+Zif]_
+Y&T<7
+cKBJ2L
+3EE{
+y.tUY
+P((o/9\
+@{>.
+h\_c
+^!E\w
+Irm*
+LG!9
+jCmn
+0?oh
+fSN@b<
+"h8u
+`y]q
+|*_X-xH
+}d	z
+i5".v
+!.l`
+[2#|
+"	/~C0
+#j2bv
+mE{x
+-y@)^AN)
+Y<qO;
+.*Le
+zqL8@E
+7.z82
+9RyM
+D-zw
+M32=
+o8Nr
+r f~
+u	#>
+C+Mo0;mr
+TI6e
+dK	T
+VVUc	s
+[U, 
+w=Q 
+1,+H
+;e[w'3
+\rmr
+s_ni
+_Ay4
+'5<b
++=F=3
+z&K$
+ae(} 35I
+|yx&;
+]<BA
+ y_]w
+HWLm
+^zBR%?
+-<=`Dg
+RSDS
+C:\Users\SLEDGE101\Documents\Visual Studio 2015\Projects\MBAMToolBox_10152015\MBAMToolBox\obj\Debug\MBAMToolBox.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="utf-8"?>
+<assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on and is
+           is designed to work with. Uncomment the appropriate elements and Windows will 
+           automatically selected the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+  <!-- Indicates that the application is DPI-aware and will not be automatically scaled by Windows at higher
+       DPIs. Windows Presentation Foundation (WPF) applications are automatically DPI-aware and do not need 
+       to opt in. Windows Forms applications targeting .NET Framework 4.6 that opt into this setting, should 
+       also set the 'EnableWindowsFormsHighDpiAutoResizing' setting to 'true' in their app.config. -->
+  <!--
+  <application xmlns="urn:schemas-microsoft-com:asm.v3">
+    <windowsSettings>
+      <dpiAware xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware>
+    </windowsSettings>
+  </application>
+  -->
+  <!-- Enable themes for Windows common controls and dialogs (Windows XP and later) -->
+  <!--
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity
+          type="win32"
+          name="Microsoft.Windows.Common-Controls"
+          version="6.0.0.0"
+          processorArchitecture="*"
+          publicKeyToken="6595b64144ccf1df"
+          language="*"
+        />
+    </dependentAssembly>
+  </dependency>
+  -->
+</assembly>

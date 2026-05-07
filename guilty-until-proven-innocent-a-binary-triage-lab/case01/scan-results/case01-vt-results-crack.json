@@ -1,0 +1,930 @@
+- _id: "9d522e0486432a9af735f022589d1366d71f7fef3b475a578d1696fe0aee23a0"
+  _type: "file"
+  authentihash: "57dafbf68dadd53023478d9be0b3dc79a0f95f7f21ea1bc41a9b0d01b5c8fe63"
+  creation_date: 1445098527  # 2015-10-17 12:15:27 -0400 EDT
+  detectiteasy: 
+    filetype: "PE32"
+    values: 
+    - name: ".NET"
+      type: "Library"
+      version: "v4.0.30319"
+    - name: "VB.NET"
+      type: "Compiler"
+    - info: "GUI32,admin"
+      name: "Microsoft Linker"
+      type: "Linker"
+      version: "80.0"
+  dot_net_assembly: 
+    assembly_data: 
+      buildnumber: 0
+      flags: 0
+      flags_text: "afPA_None"
+      hashalgid: 32772
+      majorversion: 1
+      minorversion: 1
+      name: "MBAMToolBox"
+      revisionnumber: 0
+    assembly_flags: 1
+    assembly_flags_txt: "COMIMAGE_FLAGS_ILONLY"
+    assembly_name: "MBAMToolBox.exe"
+    clr_meta_version: "1.1"
+    clr_version: "v4.0.30319"
+    entry_point_rva: 45344
+    entry_point_token: 100663360
+    external_assemblies: 
+      Microsoft.VisualBasic: 
+        version: "10.0.0.0"
+      System: 
+        version: "4.0.0.0"
+      System.Drawing: 
+        version: "4.0.0.0"
+      System.Windows.Forms: 
+        version: "4.0.0.0"
+      mscorlib: 
+        version: "4.0.0.0"
+    manifest_resource: 
+    - "MBAMToolBox.Form1.resources"
+    - "MBAMToolBox.Resources.resources"
+    metadata_header_rva: 20324
+    resources_va: 40128
+    streams: 
+      "#~": 
+        chi2: 171341.6875
+        entropy: 5.5627665519714355
+        md5: "4130708e00f718171fa4f9879e9387f5"
+        size: 6916
+      "#Blob": 
+        chi2: 21260.00390625
+        entropy: 5.694841384887695
+        md5: "19b0fb2c683cad06ad82bd77c8e6837b"
+        size: 2688
+      "#GUID": 
+        chi2: 272.0
+        entropy: 3.875
+        md5: "32ed11ee9f22a18c64be906342096f2e"
+        size: 16
+      "#Strings": 
+        chi2: 75268.890625
+        entropy: 4.906586647033691
+        md5: "bad704906363d5d3604fe407caa2b7c1"
+        size: 6452
+      "#US": 
+        chi2: 573810.75
+        entropy: 3.6540496349334717
+        md5: "e74de2bd86131220f83950c46d4bfae1"
+        size: 8840
+    strongname_va: 0
+    tables_present: 20
+    tables_present_map: "1f0909a21557"
+    tables_rows_map: "188c03e0710530e70b400002000070243800b00001005000024552"
+    tables_rows_map_log: "49688899767864545554"
+    type_definition_list: 
+    - namespace: "System.ComponentModel.Design"
+      type_definitions: 
+      - "HelpKeywordAttribute"
+    - namespace: "System"
+      type_definitions: 
+      - "Object"
+      - "NullReferenceException"
+      - "Exception"
+      - "EventArgs"
+      - "DateTime"
+      - "EventHandler"
+      - "Predicate`1"
+      - "STAThreadAttribute"
+      - "ThreadStaticAttribute"
+      - "Type"
+      - "String"
+      - "Environment"
+      - "Array"
+      - "Int32"
+      - "IDisposable"
+      - "RuntimeTypeHandle"
+      - "InvalidOperationException"
+      - "Activator"
+      - "ArgumentException"
+    - namespace: "System.Runtime.InteropServices"
+      type_definitions: 
+      - "ComVisibleAttribute"
+      - "GuidAttribute"
+    - namespace: "Microsoft.VisualBasic.MyServices"
+      type_definitions: 
+      - "FileSystemProxy"
+    - namespace: "System.Reflection"
+      type_definitions: 
+      - "AssemblyTitleAttribute"
+      - "AssemblyDescriptionAttribute"
+      - "AssemblyCompanyAttribute"
+      - "AssemblyProductAttribute"
+      - "AssemblyCopyrightAttribute"
+      - "AssemblyTrademarkAttribute"
+      - "AssemblyFileVersionAttribute"
+      - "Assembly"
+      - "TargetInvocationException"
+      - "AssemblyName"
+    - namespace: "System.Drawing"
+      type_definitions: 
+      - "Point"
+      - "Bitmap"
+      - "Color"
+      - "Font"
+      - "FontStyle"
+      - "GraphicsUnit"
+      - "Size"
+      - "SystemColors"
+      - "SizeF"
+      - "Image"
+      - "Icon"
+    - namespace: "System.CodeDom.Compiler"
+      type_definitions: 
+      - "GeneratedCodeAttribute"
+    - namespace: "System.Resources"
+      type_definitions: 
+      - "ResourceManager"
+    - namespace: "uncategorized"
+      type_definitions: 
+      - "DebuggingModes"
+      - "SpecialFolder"
+      - "ObjectCollection"
+      - "ControlCollection"
+    - namespace: "Microsoft.VisualBasic"
+      type_definitions: 
+      - "HideModuleNameAttribute"
+      - "MyGroupCollectionAttribute"
+      - "Interaction"
+      - "MsgBoxResult"
+      - "MsgBoxStyle"
+      - "Strings"
+      - "CompareMethod"
+      - "FileSystem"
+    - namespace: "System.Runtime.CompilerServices"
+      type_definitions: 
+      - "CompilationRelaxationsAttribute"
+      - "RuntimeCompatibilityAttribute"
+      - "CompilerGeneratedAttribute"
+      - "AccessedThroughPropertyAttribute"
+      - "RuntimeHelpers"
+    - namespace: "System.Configuration"
+      type_definitions: 
+      - "ApplicationSettingsBase"
+      - "SettingsBase"
+    - namespace: "Microsoft.VisualBasic.Devices"
+      type_definitions: 
+      - "Computer"
+      - "ServerComputer"
+    - namespace: "System.Runtime.Versioning"
+      type_definitions: 
+      - "TargetFrameworkAttribute"
+    - namespace: "System.Collections.Generic"
+      type_definitions: 
+      - "List`1"
+      - "IEnumerable`1"
+    - namespace: "System.Threading"
+      type_definitions: 
+      - "Monitor"
+    - namespace: "System.Globalization"
+      type_definitions: 
+      - "CultureInfo"
+    - namespace: "System.Diagnostics"
+      type_definitions: 
+      - "DebuggableAttribute"
+      - "DebuggerBrowsableState"
+      - "DebuggerBrowsableAttribute"
+      - "Process"
+      - "ProcessStartInfo"
+      - "DebuggerNonUserCodeAttribute"
+      - "DebuggerStepThroughAttribute"
+      - "DebuggerHiddenAttribute"
+      - "ProcessWindowStyle"
+    - namespace: "System.Collections"
+      type_definitions: 
+      - "Hashtable"
+    - namespace: "System.IO"
+      type_definitions: 
+      - "Stream"
+      - "FileStream"
+      - "StreamReader"
+      - "StreamWriter"
+      - "FileMode"
+      - "File"
+      - "FileAttributes"
+      - "TextWriter"
+      - "Directory"
+      - "DirectoryInfo"
+      - "FileAccess"
+      - "FileShare"
+    - namespace: "Microsoft.VisualBasic.ApplicationServices"
+      type_definitions: 
+      - "WindowsFormsApplicationBase"
+      - "User"
+      - "AuthenticationMode"
+      - "ShutdownMode"
+      - "ShutdownEventHandler"
+    - namespace: "System.ComponentModel"
+      type_definitions: 
+      - "IContainer"
+      - "ComponentResourceManager"
+      - "EditorBrowsableState"
+      - "EditorBrowsableAttribute"
+      - "Component"
+    - namespace: "Microsoft.VisualBasic.CompilerServices"
+      type_definitions: 
+      - "DesignerGeneratedAttribute"
+      - "StandardModuleAttribute"
+      - "ProjectData"
+      - "Conversions"
+      - "Operators"
+      - "ObjectFlowControl"
+      - "Utils"
+    - namespace: "System.Windows.Forms"
+      type_definitions: 
+      - "Form"
+      - "Label"
+      - "Button"
+      - "ComboBox"
+      - "SaveFileDialog"
+      - "MouseEventArgs"
+      - "OpenFileDialog"
+      - "MouseEventHandler"
+      - "Control"
+      - "Cursor"
+      - "Application"
+      - "MessageBox"
+      - "DialogResult"
+      - "FileDialog"
+      - "CommonDialog"
+      - "MessageBoxButtons"
+      - "BorderStyle"
+      - "ButtonBase"
+      - "FlatStyle"
+      - "ListControl"
+      - "ContainerControl"
+      - "AutoScaleMode"
+      - "ImageLayout"
+      - "FormBorderStyle"
+      - "FormStartPosition"
+  dot_net_guids: 
+    mvid: "2993b253-21af-4d91-bd1c-2681c0d1084d"
+    typelib_id: "9838bdcf-b526-4aeb-9214-c557d4a0ba4b"
+  first_seen_itw_date: 1445098527  # 2015-10-17 12:15:27 -0400 EDT
+  first_submission_date: 1445099553  # 2015-10-17 12:32:33 -0400 EDT
+  last_analysis_date: 1682083831  # 2023-04-21 09:30:31 -0400 EDT
+  last_analysis_results: 
+    ALYac: 
+      category: "undetected"
+      engine_name: "ALYac"
+      engine_update: "20230421"
+      engine_version: "1.1.3.1"
+      method: "blacklist"
+      result: null
+    APEX: 
+      category: "malicious"
+      engine_name: "APEX"
+      engine_update: "20230416"
+      engine_version: "6.408"
+      method: "blacklist"
+      result: "Malicious"
+    AVG: 
+      category: "undetected"
+      engine_name: "AVG"
+      engine_update: "20230421"
+      engine_version: "22.11.7701.0"
+      method: "blacklist"
+      result: null
+    Acronis: 
+      category: "undetected"
+      engine_name: "Acronis"
+      engine_update: "20230219"
+      engine_version: "1.2.0.114"
+      method: "blacklist"
+      result: null
+    AhnLab-V3: 
+      category: "undetected"
+      engine_name: "AhnLab-V3"
+      engine_update: "20230421"
+      engine_version: "3.23.2.10388"
+      method: "blacklist"
+      result: null
+    Alibaba: 
+      category: "undetected"
+      engine_name: "Alibaba"
+      engine_update: "20190527"
+      engine_version: "0.3.0.5"
+      method: "blacklist"
+      result: null
+    Antiy-AVL: 
+      category: "undetected"
+      engine_name: "Antiy-AVL"
+      engine_update: "20230421"
+      engine_version: "3.0"
+      method: "blacklist"
+      result: null
+    Arcabit: 
+      category: "undetected"
+      engine_name: "Arcabit"
+      engine_update: "20230421"
+      engine_version: "2022.0.0.18"
+      method: "blacklist"
+      result: null
+    Avast: 
+      category: "undetected"
+      engine_name: "Avast"
+      engine_update: "20230421"
+      engine_version: "22.11.7701.0"
+      method: "blacklist"
+      result: null
+    Avast-Mobile: 
+      category: "type-unsupported"
+      engine_name: "Avast-Mobile"
+      engine_update: "20230421"
+      engine_version: "230421-00"
+      method: "blacklist"
+      result: null
+    Avira: 
+      category: "undetected"
+      engine_name: "Avira"
+      engine_update: "20230421"
+      engine_version: "8.3.3.16"
+      method: "blacklist"
+      result: null
+    Baidu: 
+      category: "undetected"
+      engine_name: "Baidu"
+      engine_update: "20190318"
+      engine_version: "1.0.0.2"
+      method: "blacklist"
+      result: null
+    BitDefender: 
+      category: "undetected"
+      engine_name: "BitDefender"
+      engine_update: "20230421"
+      engine_version: "7.2"
+      method: "blacklist"
+      result: null
+    BitDefenderFalx: 
+      category: "type-unsupported"
+      engine_name: "BitDefenderFalx"
+      engine_update: "20230419"
+      engine_version: "2.0.936"
+      method: "blacklist"
+      result: null
+    BitDefenderTheta: 
+      category: "undetected"
+      engine_name: "BitDefenderTheta"
+      engine_update: "20230418"
+      engine_version: "7.2.37796.0"
+      method: "blacklist"
+      result: null
+    Bkav: 
+      category: "undetected"
+      engine_name: "Bkav"
+      engine_update: "20230421"
+      engine_version: "1.3.0.9899"
+      method: "blacklist"
+      result: null
+    CAT-QuickHeal: 
+      category: "undetected"
+      engine_name: "CAT-QuickHeal"
+      engine_update: "20230420"
+      engine_version: "22.00"
+      method: "blacklist"
+      result: null
+    CMC: 
+      category: "undetected"
+      engine_name: "CMC"
+      engine_update: "20230421"
+      engine_version: "2.4.2022.1"
+      method: "blacklist"
+      result: null
+    ClamAV: 
+      category: "undetected"
+      engine_name: "ClamAV"
+      engine_update: "20230421"
+      engine_version: "1.0.1.0"
+      method: "blacklist"
+      result: null
+    CrowdStrike: 
+      category: "undetected"
+      engine_name: "CrowdStrike"
+      engine_update: "20220812"
+      engine_version: "1.0"
+      method: "blacklist"
+      result: null
+    Cylance: 
+      category: "undetected"
+      engine_name: "Cylance"
+      engine_update: "20230419"
+      engine_version: "2.0.0.0"
+      method: "blacklist"
+      result: null
+    Cynet: 
+      category: "undetected"
+      engine_name: "Cynet"
+      engine_update: "20230421"
+      engine_version: "4.0.0.27"
+      method: "blacklist"
+      result: null
+    Cyren: 
+      category: "undetected"
+      engine_name: "Cyren"
+      engine_update: "20230421"
+      engine_version: "6.5.1.2"
+      method: "blacklist"
+      result: null
+    DeepInstinct: 
+      category: "undetected"
+      engine_name: "DeepInstinct"
+      engine_update: "20230420"
+      engine_version: "3.1.0.15"
+      method: "blacklist"
+      result: null
+    DrWeb: 
+      category: "malicious"
+      engine_name: "DrWeb"
+      engine_update: "20230421"
+      engine_version: "7.0.59.12300"
+      method: "blacklist"
+      result: "Trojan.Hosts.43295"
+    ESET-NOD32: 
+      category: "undetected"
+      engine_name: "ESET-NOD32"
+      engine_update: "20230421"
+      engine_version: "27107"
+      method: "blacklist"
+      result: null
+    Elastic: 
+      category: "undetected"
+      engine_name: "Elastic"
+      engine_update: "20230413"
+      engine_version: "4.0.85"
+      method: "blacklist"
+      result: null
+    Emsisoft: 
+      category: "undetected"
+      engine_name: "Emsisoft"
+      engine_update: "20230421"
+      engine_version: "2022.6.0.32461"
+      method: "blacklist"
+      result: null
+    F-Secure: 
+      category: "undetected"
+      engine_name: "F-Secure"
+      engine_update: "20230421"
+      engine_version: "18.10.1137.128"
+      method: "blacklist"
+      result: null
+    FireEye: 
+      category: "undetected"
+      engine_name: "FireEye"
+      engine_update: "20230421"
+      engine_version: "35.24.1.0"
+      method: "blacklist"
+      result: null
+    Fortinet: 
+      category: "undetected"
+      engine_name: "Fortinet"
+      engine_update: "20230421"
+      engine_version: "6.4.258.0"
+      method: "blacklist"
+      result: null
+    GData: 
+      category: "undetected"
+      engine_name: "GData"
+      engine_update: "20230421"
+      engine_version: "A:25.35683B:27.31410"
+      method: "blacklist"
+      result: null
+    Google: 
+      category: "undetected"
+      engine_name: "Google"
+      engine_update: "20230421"
+      engine_version: "1682078425"
+      method: "blacklist"
+      result: null
+    Gridinsoft: 
+      category: "undetected"
+      engine_name: "Gridinsoft"
+      engine_update: "20230421"
+      engine_version: "1.0.114.174"
+      method: "blacklist"
+      result: null
+    Ikarus: 
+      category: "undetected"
+      engine_name: "Ikarus"
+      engine_update: "20230421"
+      engine_version: "6.1.14.0"
+      method: "blacklist"
+      result: null
+    Jiangmin: 
+      category: "undetected"
+      engine_name: "Jiangmin"
+      engine_update: "20230420"
+      engine_version: "16.0.100"
+      method: "blacklist"
+      result: null
+    K7AntiVirus: 
+      category: "undetected"
+      engine_name: "K7AntiVirus"
+      engine_update: "20230421"
+      engine_version: "12.81.47843"
+      method: "blacklist"
+      result: null
+    K7GW: 
+      category: "undetected"
+      engine_name: "K7GW"
+      engine_update: "20230421"
+      engine_version: "12.81.47845"
+      method: "blacklist"
+      result: null
+    Kaspersky: 
+      category: "undetected"
+      engine_name: "Kaspersky"
+      engine_update: "20230421"
+      engine_version: "22.0.1.28"
+      method: "blacklist"
+      result: null
+    Lionic: 
+      category: "undetected"
+      engine_name: "Lionic"
+      engine_update: "20230421"
+      engine_version: "7.5"
+      method: "blacklist"
+      result: null
+    MAX: 
+      category: "undetected"
+      engine_name: "MAX"
+      engine_update: "20230421"
+      engine_version: "2023.1.4.1"
+      method: "blacklist"
+      result: null
+    Malwarebytes: 
+      category: "undetected"
+      engine_name: "Malwarebytes"
+      engine_update: "20230421"
+      engine_version: "4.5.5.54"
+      method: "blacklist"
+      result: null
+    MaxSecure: 
+      category: "undetected"
+      engine_name: "MaxSecure"
+      engine_update: "20230421"
+      engine_version: "1.0.0.1"
+      method: "blacklist"
+      result: null
+    McAfee: 
+      category: "undetected"
+      engine_name: "McAfee"
+      engine_update: "20230421"
+      engine_version: "6.0.6.653"
+      method: "blacklist"
+      result: null
+    McAfee-GW-Edition: 
+      category: "undetected"
+      engine_name: "McAfee-GW-Edition"
+      engine_update: "20230421"
+      engine_version: "v2021.2.0+4045"
+      method: "blacklist"
+      result: null
+    MicroWorld-eScan: 
+      category: "undetected"
+      engine_name: "MicroWorld-eScan"
+      engine_update: "20230421"
+      engine_version: "14.0.409.0"
+      method: "blacklist"
+      result: null
+    Microsoft: 
+      category: "undetected"
+      engine_name: "Microsoft"
+      engine_update: "20230421"
+      engine_version: "1.1.20200.4"
+      method: "blacklist"
+      result: null
+    NANO-Antivirus: 
+      category: "undetected"
+      engine_name: "NANO-Antivirus"
+      engine_update: "20230421"
+      engine_version: "1.0.146.25755"
+      method: "blacklist"
+      result: null
+    Paloalto: 
+      category: "malicious"
+      engine_name: "Paloalto"
+      engine_update: "20230421"
+      engine_version: "0.9.0.1003"
+      method: "blacklist"
+      result: "generic.ml"
+    Panda: 
+      category: "undetected"
+      engine_name: "Panda"
+      engine_update: "20230421"
+      engine_version: "4.6.4.2"
+      method: "blacklist"
+      result: null
+    Rising: 
+      category: "undetected"
+      engine_name: "Rising"
+      engine_update: "20230421"
+      engine_version: "25.0.0.27"
+      method: "blacklist"
+      result: null
+    SUPERAntiSpyware: 
+      category: "undetected"
+      engine_name: "SUPERAntiSpyware"
+      engine_update: "20230416"
+      engine_version: "5.6.0.1032"
+      method: "blacklist"
+      result: null
+    Sangfor: 
+      category: "undetected"
+      engine_name: "Sangfor"
+      engine_update: "20230421"
+      engine_version: "2.23.0.0"
+      method: "blacklist"
+      result: null
+    SentinelOne: 
+      category: "undetected"
+      engine_name: "SentinelOne"
+      engine_update: "20230404"
+      engine_version: "23.2.0.1"
+      method: "blacklist"
+      result: null
+    Sophos: 
+      category: "undetected"
+      engine_name: "Sophos"
+      engine_update: "20230421"
+      engine_version: "2.1.2.0"
+      method: "blacklist"
+      result: null
+    Symantec: 
+      category: "undetected"
+      engine_name: "Symantec"
+      engine_update: "20230421"
+      engine_version: "1.19.0.0"
+      method: "blacklist"
+      result: null
+    SymantecMobileInsight: 
+      category: "type-unsupported"
+      engine_name: "SymantecMobileInsight"
+      engine_update: "20230119"
+      engine_version: "2.0"
+      method: "blacklist"
+      result: null
+    TACHYON: 
+      category: "undetected"
+      engine_name: "TACHYON"
+      engine_update: "20230421"
+      engine_version: "2023-04-21.02"
+      method: "blacklist"
+      result: null
+    Tencent: 
+      category: "undetected"
+      engine_name: "Tencent"
+      engine_update: "20230421"
+      engine_version: "1.0.0.1"
+      method: "blacklist"
+      result: null
+    Trapmine: 
+      category: "malicious"
+      engine_name: "Trapmine"
+      engine_update: "20230412"
+      engine_version: "4.0.14.446"
+      method: "blacklist"
+      result: "suspicious.low.ml.score"
+    TrendMicro: 
+      category: "undetected"
+      engine_name: "TrendMicro"
+      engine_update: "20230421"
+      engine_version: "11.0.0.1006"
+      method: "blacklist"
+      result: null
+    TrendMicro-HouseCall: 
+      category: "undetected"
+      engine_name: "TrendMicro-HouseCall"
+      engine_update: "20230421"
+      engine_version: "10.0.0.1040"
+      method: "blacklist"
+      result: null
+    Trustlook: 
+      category: "type-unsupported"
+      engine_name: "Trustlook"
+      engine_update: "20230421"
+      engine_version: "1.0"
+      method: "blacklist"
+      result: null
+    VBA32: 
+      category: "undetected"
+      engine_name: "VBA32"
+      engine_update: "20230421"
+      engine_version: "5.0.0"
+      method: "blacklist"
+      result: null
+    VIPRE: 
+      category: "undetected"
+      engine_name: "VIPRE"
+      engine_update: "20230421"
+      engine_version: "6.0.0.35"
+      method: "blacklist"
+      result: null
+    ViRobot: 
+      category: "undetected"
+      engine_name: "ViRobot"
+      engine_update: "20230421"
+      engine_version: "2014.3.20.0"
+      method: "blacklist"
+      result: null
+    VirIT: 
+      category: "undetected"
+      engine_name: "VirIT"
+      engine_update: "20230421"
+      engine_version: "9.5.434"
+      method: "blacklist"
+      result: null
+    Webroot: 
+      category: "undetected"
+      engine_name: "Webroot"
+      engine_update: "20230421"
+      engine_version: "1.0.0.403"
+      method: "blacklist"
+      result: null
+    Xcitium: 
+      category: "undetected"
+      engine_name: "Xcitium"
+      engine_update: "20230420"
+      engine_version: "35580"
+      method: "blacklist"
+      result: null
+    Yandex: 
+      category: "undetected"
+      engine_name: "Yandex"
+      engine_update: "20230421"
+      engine_version: "5.5.2.24"
+      method: "blacklist"
+      result: null
+    Zillya: 
+      category: "undetected"
+      engine_name: "Zillya"
+      engine_update: "20230420"
+      engine_version: "2.0.0.4857"
+      method: "blacklist"
+      result: null
+    ZoneAlarm: 
+      category: "undetected"
+      engine_name: "ZoneAlarm"
+      engine_update: "20230421"
+      engine_version: "1.0"
+      method: "blacklist"
+      result: null
+    Zoner: 
+      category: "undetected"
+      engine_name: "Zoner"
+      engine_update: "20230421"
+      engine_version: "2.2.2.0"
+      method: "blacklist"
+      result: null
+    tehtris: 
+      category: "undetected"
+      engine_name: "tehtris"
+      engine_update: "20230421"
+      engine_version: "v0.1.4"
+      method: "blacklist"
+      result: null
+  last_analysis_stats: 
+    confirmed-timeout: 0
+    failure: 0
+    harmless: 0
+    malicious: 4
+    suspicious: 0
+    timeout: 0
+    type-unsupported: 4
+    undetected: 66
+  last_modification_date: 1756205063  # 2025-08-26 06:44:23 -0400 EDT
+  last_submission_date: 1756205063  # 2025-08-26 06:44:23 -0400 EDT
+  magic: "PE32 executable for MS Windows (GUI) Intel 80386 Mono/.Net assembly"
+  md5: "93129d6fa4e1a90a31136be26dc45cfc"
+  meaningful_name: "MBAMToolBox.exe"
+  names: 
+  - "MBAMToolBox2.exe"
+  - "MBAMToolBox.exe"
+  - "MBAMToolBox2 by Chamsoo CodeBreak.exe"
+  - "MBAMToolBox2 by TechMaxed.exe"
+  - "Malwarebytes Toolkit.exe"
+  - "mbamtoolbox2.exe"
+  - "M2.exe"
+  - "MBAM ToolBox 2.2.exe"
+  - "MBAMT setup.exe"
+  packers: 
+    PEiD: ".NET executable"
+  pe_info: 
+    entry_point: 85722
+    imphash: "f34d5f2d4577ed6d9ceec516c1f5a744"
+    import_list: 
+    - imported_functions: 
+      - "_CorExeMain"
+      library_name: "mscoree.dll"
+    machine_type: 332
+    resource_details: 
+    - chi2: 654629.69
+      entropy: 2.4577484130859375
+      filetype: "unknown"
+      lang: "NEUTRAL"
+      sha256: "191e986fc7286d8b2d4cf15d8bcf1bb109c981a5f6f5d48f0a0c37b3f980d71a"
+      type: "RT_ICON"
+    - chi2: 1592.8
+      entropy: 2.0609641075134277
+      filetype: "ICO"
+      lang: "NEUTRAL"
+      sha256: "bd8c906bf98fabf20ddce005de79068bf6dff947273b6c78c1d5243b1028f523"
+      type: "RT_GROUP_ICON"
+    - chi2: 85882.36
+      entropy: 3.4495575428009033
+      filetype: "unknown"
+      lang: "NEUTRAL"
+      sha256: "4dd871a87313dd7677fb9b00271362c6d688c61099db81a5723a044412ae0667"
+      type: "RT_VERSION"
+    - chi2: 42073.48
+      entropy: 5.005497455596924
+      filetype: "unknown"
+      lang: "NEUTRAL"
+      sha256: "33246c6b6738a0820dcd67f2855c9c2a5f25a9f9e0beefa74de7e25fbc6dbb6f"
+      type: "RT_MANIFEST"
+    resource_langs: 
+      NEUTRAL: 4
+    resource_types: 
+      RT_GROUP_ICON: 1
+      RT_ICON: 1
+      RT_MANIFEST: 1
+      RT_VERSION: 1
+    sections: 
+    - chi2: 834926.19
+      entropy: 6.7
+      flags: "rx"
+      md5: "0de7ce296178a4a850dc3ffa5cfdd735"
+      name: ".text"
+      raw_size: 77824
+      virtual_address: 8192
+      virtual_size: 77536
+    - chi2: 566087.06
+      entropy: 3.92
+      flags: "r"
+      md5: "78c92abea7741212d03d6f480580b357"
+      name: ".rsrc"
+      raw_size: 14336
+      virtual_address: 90112
+      virtual_size: 14240
+    - chi2: 128015.0
+      entropy: 0.1
+      flags: "r"
+      md5: "3e074fea4b30a985149e56dff01e5a4b"
+      name: ".reloc"
+      raw_size: 512
+      virtual_address: 106496
+      virtual_size: 12
+    timestamp: 1445098527
+  reputation: 47
+  sha1: "bad8a7431b0361ce756f8946afee16cfabadaf06"
+  sha256: "9d522e0486432a9af735f022589d1366d71f7fef3b475a578d1696fe0aee23a0"
+  signature_info: 
+    comments: "MBAM ToolBox 2.2 [SLEDGE101]"
+    copyright: "Copyright ©  2015 Malwarebytes.  All rights reserved."
+    description: "MBAM ToolBox 2.2"
+    file version: "2.2.0.0"
+    internal name: "MBAMToolBox.exe"
+    original name: "MBAMToolBox.exe"
+    product: "MBAM Tools 2.0"
+  size: 93184
+  ssdeep: "1536:SGp04kyGyTranHhSEVhbLhl9fqyXNhUk2W//XQaMHP0i0oEdYOKcl:XsPbLjHNmsXpiMij8Y9Y"
+  tags: 
+  - "peexe"
+  - "hosts-modifier"
+  - "assembly"
+  - "runtime-modules"
+  - "detect-debug-environment"
+  - "direct-cpu-clock-access"
+  - "via-tor"
+  times_submitted: 181
+  tlsh: "T19C93D31522D4C23CF17A3675E8718DF046F1BC22E925F65F39843D9A3A726C08951B9F"
+  total_votes: 
+    harmless: 16
+    malicious: 4
+  trid: 
+  - file_type: "Generic CIL Executable (.NET, Mono, etc.)"
+    probability: 63.0
+  - file_type: "Windows screen saver"
+    probability: 11.2
+  - file_type: "Win64 Executable (generic)"
+    probability: 9.0
+  - file_type: "Win32 Dynamic Link Library (generic)"
+    probability: 5.6
+  - file_type: "Win32 Executable (generic)"
+    probability: 3.8
+  type_description: "Win32 EXE"
+  type_extension: "exe"
+  type_tag: "peexe"
+  type_tags: 
+  - "executable"
+  - "windows"
+  - "win32"
+  - "pe"
+  - "peexe"
+  unique_sources: 171
+  vhash: "294036651512008183e3e6160"

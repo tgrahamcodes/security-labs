@@ -1,0 +1,2042 @@
+- _id: "abe5b31ccd23e02d0e1489acc2cb12c075cedd6e4a24f5718111d05845fc9feb"
+  _type: "file"
+  authentihash: "bd3eacc5a824ed02d1df274137c5211e0a2f095614d3fec45773024c2f3b600f"
+  creation_date: 1476861305  # 2016-10-19 03:15:05 -0400 EDT
+  detectiteasy: 
+    filetype: "PE32"
+    values: 
+    - name: "BitRock Installer"
+      type: "Installer"
+    - name: "MinGW"
+      type: "Compiler"
+    - info: "GUI32,admin,signed"
+      name: "GNU linker ld (GNU Binutils)"
+      type: "Linker"
+      version: "2.22"
+  filecondis: 
+    dhash: "0000001f0e0e1908"
+    raw_md5: "c46bb4dc0e99177950dadd7c3f53c0c5"
+  first_seen_itw_date: 1762464622  # 2025-11-06 16:30:22 -0500 EST
+  first_submission_date: 1754675878  # 2025-08-08 13:57:58 -0400 EDT
+  last_analysis_date: 1767328683  # 2026-01-01 23:38:03 -0500 EST
+  last_analysis_results: 
+    ALYac: 
+      category: "failure"
+      engine_name: "ALYac"
+      engine_update: "20260102"
+      engine_version: null
+      method: "blacklist"
+      result: null
+    APEX: 
+      category: "undetected"
+      engine_name: "APEX"
+      engine_update: "20260101"
+      engine_version: "6.732"
+      method: "blacklist"
+      result: null
+    AVG: 
+      category: "failure"
+      engine_name: "AVG"
+      engine_update: "20260102"
+      engine_version: "23.9.8494.0"
+      method: "blacklist"
+      result: null
+    Acronis: 
+      category: "undetected"
+      engine_name: "Acronis"
+      engine_update: "20240328"
+      engine_version: "1.2.0.121"
+      method: "blacklist"
+      result: null
+    AhnLab-V3: 
+      category: "undetected"
+      engine_name: "AhnLab-V3"
+      engine_update: "20260102"
+      engine_version: "3.29.1.10604"
+      method: "blacklist"
+      result: null
+    Alibaba: 
+      category: "undetected"
+      engine_name: "Alibaba"
+      engine_update: "20190527"
+      engine_version: "0.3.0.5"
+      method: "blacklist"
+      result: null
+    Antiy-AVL: 
+      category: "undetected"
+      engine_name: "Antiy-AVL"
+      engine_update: "20260102"
+      engine_version: "3.0"
+      method: "blacklist"
+      result: null
+    Arcabit: 
+      category: "failure"
+      engine_name: "Arcabit"
+      engine_update: "20260102"
+      engine_version: "2025.0.0.23"
+      method: "blacklist"
+      result: null
+    Avast: 
+      category: "failure"
+      engine_name: "Avast"
+      engine_update: "20260102"
+      engine_version: "23.9.8494.0"
+      method: "blacklist"
+      result: null
+    Avast-Mobile: 
+      category: "type-unsupported"
+      engine_name: "Avast-Mobile"
+      engine_update: "20260101"
+      engine_version: "260101-04"
+      method: "blacklist"
+      result: null
+    Avira: 
+      category: "undetected"
+      engine_name: "Avira"
+      engine_update: "20260101"
+      engine_version: "8.3.3.24"
+      method: "blacklist"
+      result: null
+    Baidu: 
+      category: "undetected"
+      engine_name: "Baidu"
+      engine_update: "20190318"
+      engine_version: "1.0.0.2"
+      method: "blacklist"
+      result: null
+    BitDefender: 
+      category: "failure"
+      engine_name: "BitDefender"
+      engine_update: "20260102"
+      engine_version: "7.2"
+      method: "blacklist"
+      result: null
+    BitDefenderFalx: 
+      category: "type-unsupported"
+      engine_name: "BitDefenderFalx"
+      engine_update: "20251216"
+      engine_version: "2.0.936"
+      method: "blacklist"
+      result: null
+    Bkav: 
+      category: "undetected"
+      engine_name: "Bkav"
+      engine_update: "20251231"
+      engine_version: "2.0.0.1"
+      method: "blacklist"
+      result: null
+    CAT-QuickHeal: 
+      category: "failure"
+      engine_name: "CAT-QuickHeal"
+      engine_update: "20260101"
+      engine_version: null
+      method: "blacklist"
+      result: null
+    CMC: 
+      category: "undetected"
+      engine_name: "CMC"
+      engine_update: "20260101"
+      engine_version: "2.4.2022.1"
+      method: "blacklist"
+      result: null
+    CTX: 
+      category: "timeout"
+      engine_name: "CTX"
+      engine_update: "20260102"
+      engine_version: "2024.8.29.1"
+      method: "blacklist"
+      result: null
+    ClamAV: 
+      category: "undetected"
+      engine_name: "ClamAV"
+      engine_update: "20260101"
+      engine_version: "1.5.1.0"
+      method: "blacklist"
+      result: null
+    CrowdStrike: 
+      category: "undetected"
+      engine_name: "CrowdStrike"
+      engine_update: "20231026"
+      engine_version: "1.0"
+      method: "blacklist"
+      result: null
+    Cylance: 
+      category: "failure"
+      engine_name: "Cylance"
+      engine_update: "20251205"
+      engine_version: "3.0.0.0"
+      method: "blacklist"
+      result: null
+    Cynet: 
+      category: "type-unsupported"
+      engine_name: "Cynet"
+      engine_update: "20260101"
+      engine_version: "4.0.3.4"
+      method: "blacklist"
+      result: null
+    DeepInstinct: 
+      category: "failure"
+      engine_name: "DeepInstinct"
+      engine_update: "20251230"
+      engine_version: "5.0.0.8"
+      method: "blacklist"
+      result: null
+    DrWeb: 
+      category: "timeout"
+      engine_name: "DrWeb"
+      engine_update: "20260102"
+      engine_version: "7.0.72.9030"
+      method: "blacklist"
+      result: null
+    ESET-NOD32: 
+      category: "timeout"
+      engine_name: "ESET-NOD32"
+      engine_update: "20251231"
+      engine_version: "18.2.18.0"
+      method: "blacklist"
+      result: null
+    Elastic: 
+      category: "type-unsupported"
+      engine_name: "Elastic"
+      engine_update: "20251219"
+      engine_version: "4.0.242"
+      method: "blacklist"
+      result: null
+    Emsisoft: 
+      category: "failure"
+      engine_name: "Emsisoft"
+      engine_update: "20260102"
+      engine_version: "2024.8.0.61147"
+      method: "blacklist"
+      result: null
+    F-Secure: 
+      category: "undetected"
+      engine_name: "F-Secure"
+      engine_update: "20260101"
+      engine_version: "18.10.1547.307"
+      method: "blacklist"
+      result: null
+    Fortinet: 
+      category: "undetected"
+      engine_name: "Fortinet"
+      engine_update: "20260102"
+      engine_version: "7.0.30.0"
+      method: "blacklist"
+      result: null
+    GData: 
+      category: "timeout"
+      engine_name: "GData"
+      engine_update: "20260102"
+      engine_version: null
+      method: "blacklist"
+      result: null
+    Google: 
+      category: "undetected"
+      engine_name: "Google"
+      engine_update: "20260102"
+      engine_version: "1767333654"
+      method: "blacklist"
+      result: null
+    Gridinsoft: 
+      category: "undetected"
+      engine_name: "Gridinsoft"
+      engine_update: "20260102"
+      engine_version: "1.0.231.174"
+      method: "blacklist"
+      result: null
+    Ikarus: 
+      category: "undetected"
+      engine_name: "Ikarus"
+      engine_update: "20260101"
+      engine_version: "6.4.16.0"
+      method: "blacklist"
+      result: null
+    Jiangmin: 
+      category: "timeout"
+      engine_name: "Jiangmin"
+      engine_update: "20260101"
+      engine_version: null
+      method: "blacklist"
+      result: null
+    K7AntiVirus: 
+      category: "undetected"
+      engine_name: "K7AntiVirus"
+      engine_update: "20260102"
+      engine_version: "14.26.58170"
+      method: "blacklist"
+      result: null
+    K7GW: 
+      category: "undetected"
+      engine_name: "K7GW"
+      engine_update: "20260102"
+      engine_version: "14.26.58169"
+      method: "blacklist"
+      result: null
+    Kaspersky: 
+      category: "failure"
+      engine_name: "Kaspersky"
+      engine_update: "20260102"
+      engine_version: "22.0.1.28"
+      method: "blacklist"
+      result: null
+    Kingsoft: 
+      category: "undetected"
+      engine_name: "Kingsoft"
+      engine_update: "20260101"
+      engine_version: "None"
+      method: "blacklist"
+      result: null
+    Lionic: 
+      category: "undetected"
+      engine_name: "Lionic"
+      engine_update: "20260102"
+      engine_version: "8.16"
+      method: "blacklist"
+      result: null
+    Malwarebytes: 
+      category: "undetected"
+      engine_name: "Malwarebytes"
+      engine_update: "20260102"
+      engine_version: "3.1.0.185"
+      method: "blacklist"
+      result: null
+    MaxSecure: 
+      category: "undetected"
+      engine_name: "MaxSecure"
+      engine_update: "20260102"
+      engine_version: "1.0.0.1"
+      method: "blacklist"
+      result: null
+    McAfeeD: 
+      category: "undetected"
+      engine_name: "McAfeeD"
+      engine_update: "20260102"
+      engine_version: "1.2.0.10275"
+      method: "blacklist"
+      result: null
+    MicroWorld-eScan: 
+      category: "undetected"
+      engine_name: "MicroWorld-eScan"
+      engine_update: "20260102"
+      engine_version: "14.0.409.0"
+      method: "blacklist"
+      result: null
+    Microsoft: 
+      category: "timeout"
+      engine_name: "Microsoft"
+      engine_update: "20260102"
+      engine_version: "1.1.25110.1"
+      method: "blacklist"
+      result: null
+    NANO-Antivirus: 
+      category: "timeout"
+      engine_name: "NANO-Antivirus"
+      engine_update: "20251219"
+      engine_version: "1.0.170.26895"
+      method: "blacklist"
+      result: null
+    Paloalto: 
+      category: "undetected"
+      engine_name: "Paloalto"
+      engine_update: "20260102"
+      engine_version: "0.9.0.1003"
+      method: "blacklist"
+      result: null
+    Panda: 
+      category: "timeout"
+      engine_name: "Panda"
+      engine_update: "20260101"
+      engine_version: "4.6.4.2"
+      method: "blacklist"
+      result: null
+    Rising: 
+      category: "timeout"
+      engine_name: "Rising"
+      engine_update: "20260102"
+      engine_version: "25.0.0.28"
+      method: "blacklist"
+      result: null
+    SUPERAntiSpyware: 
+      category: "undetected"
+      engine_name: "SUPERAntiSpyware"
+      engine_update: "20260101"
+      engine_version: "5.6.0.1032"
+      method: "blacklist"
+      result: null
+    Sangfor: 
+      category: "undetected"
+      engine_name: "Sangfor"
+      engine_update: "20251229"
+      engine_version: "2.22.3.0"
+      method: "blacklist"
+      result: null
+    SentinelOne: 
+      category: "timeout"
+      engine_name: "SentinelOne"
+      engine_update: "20251224"
+      engine_version: "7.5.3.1"
+      method: "blacklist"
+      result: null
+    Skyhigh: 
+      category: "failure"
+      engine_name: "Skyhigh"
+      engine_update: "20251231"
+      engine_version: null
+      method: "blacklist"
+      result: null
+    Sophos: 
+      category: "timeout"
+      engine_name: "Sophos"
+      engine_update: "20260102"
+      engine_version: "3.3.1.0"
+      method: "blacklist"
+      result: null
+    Symantec: 
+      category: "timeout"
+      engine_name: "Symantec"
+      engine_update: "20260101"
+      engine_version: "1.22.0.0"
+      method: "blacklist"
+      result: null
+    SymantecMobileInsight: 
+      category: "type-unsupported"
+      engine_name: "SymantecMobileInsight"
+      engine_update: "20250124"
+      engine_version: "2.0"
+      method: "blacklist"
+      result: null
+    TACHYON: 
+      category: "undetected"
+      engine_name: "TACHYON"
+      engine_update: "20260102"
+      engine_version: "2026-01-02.02"
+      method: "blacklist"
+      result: null
+    Tencent: 
+      category: "malicious"
+      engine_name: "Tencent"
+      engine_update: "20260102"
+      engine_version: "1.0.0.1"
+      method: "blacklist"
+      result: "eicar-test-file"
+    Trapmine: 
+      category: "undetected"
+      engine_name: "Trapmine"
+      engine_update: "20251125"
+      engine_version: "4.0.7.0"
+      method: "blacklist"
+      result: null
+    TrellixENS: 
+      category: "failure"
+      engine_name: "TrellixENS"
+      engine_update: "20251231"
+      engine_version: "6.0.6.653"
+      method: "blacklist"
+      result: null
+    TrendMicro: 
+      category: "timeout"
+      engine_name: "TrendMicro"
+      engine_update: "20260102"
+      engine_version: "24.550.0.1002"
+      method: "blacklist"
+      result: null
+    TrendMicro-HouseCall: 
+      category: "failure"
+      engine_name: "TrendMicro-HouseCall"
+      engine_update: "20260102"
+      engine_version: "24.550.0.1002"
+      method: "blacklist"
+      result: null
+    Trustlook: 
+      category: "type-unsupported"
+      engine_name: "Trustlook"
+      engine_update: "20260102"
+      engine_version: "1.0"
+      method: "blacklist"
+      result: null
+    VBA32: 
+      category: "failure"
+      engine_name: "VBA32"
+      engine_update: "20251231"
+      engine_version: null
+      method: "blacklist"
+      result: null
+    VIPRE: 
+      category: "undetected"
+      engine_name: "VIPRE"
+      engine_update: "20260101"
+      engine_version: "6.0.0.35"
+      method: "blacklist"
+      result: null
+    Varist: 
+      category: "failure"
+      engine_name: "Varist"
+      engine_update: "20260102"
+      engine_version: "6.6.1.3"
+      method: "blacklist"
+      result: null
+    ViRobot: 
+      category: "undetected"
+      engine_name: "ViRobot"
+      engine_update: "20260101"
+      engine_version: "2014.3.20.0"
+      method: "blacklist"
+      result: null
+    VirIT: 
+      category: "undetected"
+      engine_name: "VirIT"
+      engine_update: "20251231"
+      engine_version: "9.5.1115"
+      method: "blacklist"
+      result: null
+    Webroot: 
+      category: "undetected"
+      engine_name: "Webroot"
+      engine_update: "20250227"
+      engine_version: "1.10.0.2"
+      method: "blacklist"
+      result: null
+    Xcitium: 
+      category: "undetected"
+      engine_name: "Xcitium"
+      engine_update: "20251231"
+      engine_version: "38306"
+      method: "blacklist"
+      result: null
+    Yandex: 
+      category: "failure"
+      engine_name: "Yandex"
+      engine_update: "20260102"
+      engine_version: "5.5.2.24"
+      method: "blacklist"
+      result: null
+    Zillya: 
+      category: "failure"
+      engine_name: "Zillya"
+      engine_update: "20251231"
+      engine_version: "2.0.0.5516"
+      method: "blacklist"
+      result: null
+    ZoneAlarm: 
+      category: "undetected"
+      engine_name: "ZoneAlarm"
+      engine_update: "20260102"
+      engine_version: "6.21-110947400"
+      method: "blacklist"
+      result: null
+    Zoner: 
+      category: "undetected"
+      engine_name: "Zoner"
+      engine_update: "20260102"
+      engine_version: "2.2.2.0"
+      method: "blacklist"
+      result: null
+    alibabacloud: 
+      category: "undetected"
+      engine_name: "alibabacloud"
+      engine_update: "20250321"
+      engine_version: "2.2.0"
+      method: "blacklist"
+      result: null
+    huorong: 
+      category: "undetected"
+      engine_name: "huorong"
+      engine_update: "20260101"
+      engine_version: "840e5c6:840e5c6:1c0c99a:1c0c99a"
+      method: "blacklist"
+      result: null
+    tehtris: 
+      category: "undetected"
+      engine_name: "tehtris"
+      engine_update: "20260102"
+      engine_version: "v0.1.4"
+      method: "blacklist"
+      result: null
+  last_analysis_stats: 
+    confirmed-timeout: 0
+    failure: 17
+    harmless: 0
+    malicious: 1
+    suspicious: 0
+    timeout: 13
+    type-unsupported: 6
+    undetected: 39
+  last_modification_date: 1769570924  # 2026-01-27 22:28:44 -0500 EST
+  last_submission_date: 1769570922  # 2026-01-27 22:28:42 -0500 EST
+  magic: "PE32 executable (GUI) Intel 80386 (stripped to external PDB), for MS Windows"
+  magika: "PEBIN"
+  md5: "46360b1b925f5e70d2f4ae3c63846632"
+  meaningful_name: "setup.exe"
+  names: 
+  - "metasploit-windows-x64-installer.exe"
+  - "setup.exe"
+  - "metasploit-latest-windows-x64-installer.exe"
+  pe_info: 
+    entry_point: 4768
+    exports: 
+    - "TclKit_AppInit"
+    - "TclKit_SetKitPath"
+    imphash: "fa04856b93b6fb79a0822fdadc0379bb"
+    import_list: 
+    - imported_functions: 
+      - "GetSecurityDescriptorOwner"
+      - "GetSidIdentifierAuthority"
+      - "GetUserNameA"
+      - "GetUserNameW"
+      - "RegCloseKey"
+      - "RegOpenKeyExA"
+      - "RegQueryValueExA"
+      library_name: "ADVAPI32.DLL"
+    - imported_functions: 
+      - "InitCommonControlsEx"
+      library_name: "COMCTL32.DLL"
+    - imported_functions: 
+      - "ChooseColorA"
+      - "CommDlgExtendedError"
+      - "GetOpenFileNameA"
+      - "GetOpenFileNameW"
+      - "GetSaveFileNameA"
+      - "GetSaveFileNameW"
+      library_name: "COMDLG32.DLL"
+    - imported_functions: 
+      - "Arc"
+      - "BitBlt"
+      - "Chord"
+      - "CombineRgn"
+      - "CreateBitmap"
+      - "CreateCompatibleBitmap"
+      - "CreateCompatibleDC"
+      - "CreateDCA"
+      - "CreateDIBitmap"
+      - "CreateDIBSection"
+      - "CreateFontIndirectA"
+      - "CreateFontIndirectW"
+      - "CreatePalette"
+      - "CreatePatternBrush"
+      - "CreatePen"
+      - "CreateRectRgn"
+      - "CreateRectRgnIndirect"
+      - "CreateSolidBrush"
+      - "DeleteDC"
+      - "DeleteObject"
+      - "DPtoLP"
+      - "EnumFontFamiliesA"
+      - "EnumFontFamiliesW"
+      - "ExtCreatePen"
+      - "ExtTextOutA"
+      - "GetBkMode"
+      - "GetCharWidthA"
+      - "GetCharWidthW"
+      - "GetDeviceCaps"
+      - "GetDIBits"
+      - "GetFontData"
+      - "GetMapMode"
+      - "GetNearestColor"
+      - "GetNearestPaletteIndex"
+      - "GetObjectA"
+      - "GetPaletteEntries"
+      - "GetPixel"
+      - "GetRgnBox"
+      - "GetStockObject"
+      - "GetTextCharset"
+      - "GetTextExtentPoint32A"
+      - "GetTextExtentPoint32W"
+      - "GetTextExtentPointA"
+      - "GetTextFaceA"
+      - "GetTextFaceW"
+      - "GetTextMetricsA"
+      - "OffsetClipRgn"
+      - "PatBlt"
+      - "Pie"
+      - "Polygon"
+      - "Polyline"
+      - "RealizePalette"
+      - "Rectangle"
+      - "RectInRegion"
+      - "ResizePalette"
+      - "SelectClipRgn"
+      - "SelectObject"
+      - "SelectPalette"
+      - "SetBkColor"
+      - "SetBkMode"
+      - "SetBrushOrgEx"
+      - "SetMapMode"
+      - "SetPaletteEntries"
+      - "SetPolyFillMode"
+      - "SetRectRgn"
+      - "SetROP2"
+      - "SetTextAlign"
+      - "SetTextColor"
+      - "StretchDIBits"
+      - "TextOutA"
+      - "TextOutW"
+      - "TranslateCharsetInfo"
+      - "UpdateColors"
+      library_name: "GDI32.dll"
+    - imported_functions: 
+      - "ImmGetCompositionStringA"
+      - "ImmGetCompositionStringW"
+      - "ImmGetContext"
+      - "ImmReleaseContext"
+      - "ImmSetCompositionWindow"
+      library_name: "IMM32.DLL"
+    - imported_functions: 
+      - "BuildCommDCBA"
+      - "BuildCommDCBW"
+      - "ClearCommError"
+      - "CloseHandle"
+      - "CopyFileA"
+      - "CopyFileW"
+      - "CreateDirectoryA"
+      - "CreateDirectoryW"
+      - "CreateEventA"
+      - "CreateFileA"
+      - "CreateFileMappingA"
+      - "CreateFileW"
+      - "CreatePipe"
+      - "CreateProcessA"
+      - "CreateProcessW"
+      - "CreateSemaphoreA"
+      - "CreateThread"
+      - "DeleteCriticalSection"
+      - "DeleteFileA"
+      - "DeleteFileW"
+      - "DeviceIoControl"
+      - "DuplicateHandle"
+      - "EnterCriticalSection"
+      - "EscapeCommFunction"
+      - "ExitProcess"
+      - "FindClose"
+      - "FindFirstFileA"
+      - "FindFirstFileW"
+      - "FindNextFileA"
+      - "FindNextFileW"
+      - "FindResourceA"
+      - "FlushFileBuffers"
+      - "FormatMessageA"
+      - "FreeLibrary"
+      - "GetACP"
+      - "GetCommandLineA"
+      - "GetCommModemStatus"
+      - "GetCommState"
+      - "GetComputerNameA"
+      - "GetComputerNameW"
+      - "GetConsoleCP"
+      - "GetConsoleMode"
+      - "GetCurrentDirectoryA"
+      - "GetCurrentDirectoryW"
+      - "GetCurrentProcess"
+      - "GetCurrentThread"
+      - "GetCurrentThreadId"
+      - "GetEnvironmentVariableA"
+      - "GetEnvironmentVariableW"
+      - "GetExitCodeProcess"
+      - "GetExitCodeThread"
+      - "GetFileAttributesA"
+      - "GetFileAttributesW"
+      - "GetFileInformationByHandle"
+      - "GetFileType"
+      - "GetFullPathNameA"
+      - "GetFullPathNameW"
+      - "GetLastError"
+      - "GetLocaleInfoA"
+      - "GetLogicalDriveStringsA"
+      - "GetModuleFileNameA"
+      - "GetModuleFileNameW"
+      - "GetModuleHandleA"
+      - "GetOverlappedResult"
+      - "GetPrivateProfileStringA"
+      - "GetProcAddress"
+      - "GetProcessHeap"
+      - "GetShortPathNameA"
+      - "GetShortPathNameW"
+      - "GetStartupInfoA"
+      - "GetStdHandle"
+      - "GetSystemInfo"
+      - "GetSystemTimeAsFileTime"
+      - "GetTempFileNameA"
+      - "GetTempFileNameW"
+      - "GetTempPathA"
+      - "GetTempPathW"
+      - "GetTickCount"
+      - "GetTimeZoneInformation"
+      - "GetVersion"
+      - "GetVersionExA"
+      - "GetVolumeInformationA"
+      - "GetVolumeInformationW"
+      - "GetWindowsDirectoryA"
+      - "GetWindowsDirectoryW"
+      - "GlobalAlloc"
+      - "GlobalLock"
+      - "GlobalUnlock"
+      - "HeapAlloc"
+      - "HeapFree"
+      - "InitializeCriticalSection"
+      - "InterlockedDecrement"
+      - "InterlockedIncrement"
+      - "IsDBCSLeadByte"
+      - "LeaveCriticalSection"
+      - "LoadLibraryA"
+      - "LoadLibraryExA"
+      - "LoadLibraryExW"
+      - "LoadResource"
+      - "LocalFree"
+      - "LockResource"
+      - "lstrcmpiA"
+      - "lstrcpyA"
+      - "lstrcpynA"
+      - "lstrcpyW"
+      - "lstrlenA"
+      - "lstrlenW"
+      - "MapViewOfFile"
+      - "MoveFileA"
+      - "MoveFileW"
+      - "MulDiv"
+      - "MultiByteToWideChar"
+      - "OutputDebugStringA"
+      - "PeekConsoleInputA"
+      - "PeekNamedPipe"
+      - "PurgeComm"
+      - "QueryPerformanceCounter"
+      - "QueryPerformanceFrequency"
+      - "ReadConsoleA"
+      - "ReadConsoleW"
+      - "ReadFile"
+      - "ReleaseSemaphore"
+      - "RemoveDirectoryA"
+      - "RemoveDirectoryW"
+      - "ResetEvent"
+      - "SearchPathA"
+      - "SearchPathW"
+      - "SetCommState"
+      - "SetCommTimeouts"
+      - "SetConsoleMode"
+      - "SetCurrentDirectoryA"
+      - "SetCurrentDirectoryW"
+      - "SetEndOfFile"
+      - "SetEnvironmentVariableW"
+      - "SetErrorMode"
+      - "SetEvent"
+      - "SetFileAttributesA"
+      - "SetFileAttributesW"
+      - "SetFilePointer"
+      - "SetFileTime"
+      - "SetHandleInformation"
+      - "SetLastError"
+      - "SetThreadPriority"
+      - "SetUnhandledExceptionFilter"
+      - "SetupComm"
+      - "Sleep"
+      - "TerminateThread"
+      - "TlsAlloc"
+      - "TlsFree"
+      - "TlsGetValue"
+      - "TlsSetValue"
+      - "UnmapViewOfFile"
+      - "VirtualProtect"
+      - "VirtualQuery"
+      - "WaitForMultipleObjects"
+      - "WaitForSingleObject"
+      - "WaitForSingleObjectEx"
+      - "WideCharToMultiByte"
+      - "WriteConsoleA"
+      - "WriteConsoleW"
+      - "WriteFile"
+      library_name: "KERNEL32.dll"
+    - imported_functions: 
+      - "__getmainargs"
+      - "__mb_cur_max"
+      - "__p___argc"
+      - "__p___argv"
+      - "__p__environ"
+      - "__p__fmode"
+      - "__set_app_type"
+      - "_beginthreadex"
+      - "_cexit"
+      - "_endthreadex"
+      - "_errno"
+      - "_fdopen"
+      - "_ftime"
+      - "_get_osfhandle"
+      - "_getpid"
+      - "_hypot"
+      - "_iob"
+      - "_isatty"
+      - "_isctype"
+      - "_onexit"
+      - "_open"
+      - "_pctype"
+      - "_putenv"
+      - "_setmode"
+      - "_strdup"
+      - "_stricmp"
+      - "_strnicmp"
+      - "_strtoi64"
+      - "_timezone"
+      - "_tzset"
+      - "_wcsicmp"
+      - "_wopen"
+      - "_write"
+      - "abort"
+      - "acos"
+      - "asin"
+      - "atan"
+      - "atan2"
+      - "atexit"
+      - "atoi"
+      - "calloc"
+      - "ceil"
+      - "cos"
+      - "cosh"
+      - "ctime"
+      - "exit"
+      - "exp"
+      - "fclose"
+      - "fflush"
+      - "floor"
+      - "fmod"
+      - "fprintf"
+      - "fputc"
+      - "fputs"
+      - "fread"
+      - "free"
+      - "frexp"
+      - "fseek"
+      - "ftell"
+      - "fwrite"
+      - "getenv"
+      - "gmtime"
+      - "ldexp"
+      - "localtime"
+      - "log"
+      - "log10"
+      - "malloc"
+      - "memcmp"
+      - "memcpy"
+      - "memmove"
+      - "mktime"
+      - "modf"
+      - "pow"
+      - "printf"
+      - "puts"
+      - "qsort"
+      - "realloc"
+      - "setlocale"
+      - "signal"
+      - "sin"
+      - "sinh"
+      - "sprintf"
+      - "sqrt"
+      - "sscanf"
+      - "strcat"
+      - "strchr"
+      - "strcmp"
+      - "strcpy"
+      - "strcspn"
+      - "strerror"
+      - "strlen"
+      - "strncmp"
+      - "strncpy"
+      - "strpbrk"
+      - "strrchr"
+      - "strspn"
+      - "strstr"
+      - "strtod"
+      - "strtol"
+      - "strtoul"
+      - "swprintf"
+      - "tan"
+      - "tanh"
+      - "time"
+      - "tolower"
+      - "toupper"
+      - "vfprintf"
+      - "vsprintf"
+      - "wcschr"
+      - "wcscmp"
+      - "wcscpy"
+      - "wcslen"
+      - "wcsncmp"
+      - "wcsncpy"
+      library_name: "msvcrt.dll"
+    - imported_functions: 
+      - "CreateBindCtx"
+      - "CreateFileMoniker"
+      - "GetRunningObjectTable"
+      library_name: "OLE32.dll"
+    - imported_functions: 
+      - "CreateErrorInfo"
+      - "SetErrorInfo"
+      - "SysAllocString"
+      - "SysFreeString"
+      - "VariantChangeType"
+      - "VariantClear"
+      - "VariantInit"
+      library_name: "OLEAUT32.DLL"
+    - imported_functions: 
+      - "SHBrowseForFolderA"
+      - "SHBrowseForFolderW"
+      - "SHGetDesktopFolder"
+      - "SHGetMalloc"
+      - "SHGetPathFromIDListA"
+      - "SHGetPathFromIDListW"
+      library_name: "SHELL32.DLL"
+    - imported_functions: 
+      - "AdjustWindowRectEx"
+      - "BeginPaint"
+      - "CallNextHookEx"
+      - "CallWindowProcA"
+      - "CallWindowProcW"
+      - "CharLowerA"
+      - "CharLowerW"
+      - "ClientToScreen"
+      - "CloseClipboard"
+      - "CreateCaret"
+      - "CreateIconFromResource"
+      - "CreateIconIndirect"
+      - "CreateMenu"
+      - "CreatePopupMenu"
+      - "CreateWindowExA"
+      - "CreateWindowExW"
+      - "DefWindowProcA"
+      - "DefWindowProcW"
+      - "DestroyCaret"
+      - "DestroyIcon"
+      - "DestroyMenu"
+      - "DestroyWindow"
+      - "DispatchMessageA"
+      - "DrawEdge"
+      - "DrawFocusRect"
+      - "DrawFrameControl"
+      - "DrawMenuBar"
+      - "EmptyClipboard"
+      - "EnableWindow"
+      - "EndPaint"
+      - "EnumWindows"
+      - "FillRect"
+      - "GetAsyncKeyState"
+      - "GetCapture"
+      - "GetClassLongA"
+      - "GetClientRect"
+      - "GetClipboardData"
+      - "GetClipboardOwner"
+      - "GetCursorPos"
+      - "GetDC"
+      - "GetDesktopWindow"
+      - "GetFocus"
+      - "GetForegroundWindow"
+      - "GetKeyboardLayout"
+      - "GetKeyState"
+      - "GetMenuCheckMarkDimensions"
+      - "GetMenuItemCount"
+      - "GetMessageA"
+      - "GetMessagePos"
+      - "GetParent"
+      - "GetSysColor"
+      - "GetSysColorBrush"
+      - "GetSystemMenu"
+      - "GetSystemMetrics"
+      - "GetWindow"
+      - "GetWindowLongA"
+      - "GetWindowPlacement"
+      - "GetWindowRect"
+      - "GetWindowTextA"
+      - "GetWindowTextW"
+      - "InsertMenuA"
+      - "InsertMenuW"
+      - "InvalidateRect"
+      - "IsClipboardFormatAvailable"
+      - "IsIconic"
+      - "IsWindow"
+      - "IsWindowVisible"
+      - "IsZoomed"
+      - "KillTimer"
+      - "LoadBitmapA"
+      - "LoadCursorA"
+      - "LoadCursorFromFileA"
+      - "LoadIconA"
+      - "MapVirtualKeyA"
+      - "MessageBeep"
+      - "MessageBoxA"
+      - "MessageBoxW"
+      - "MoveWindow"
+      - "MsgWaitForMultipleObjectsEx"
+      - "OpenClipboard"
+      - "PeekMessageA"
+      - "PostMessageA"
+      - "PostQuitMessage"
+      - "RegisterClassA"
+      - "RegisterClassExA"
+      - "RegisterClassW"
+      - "ReleaseCapture"
+      - "ReleaseDC"
+      - "RemoveMenu"
+      - "ScreenToClient"
+      - "ScrollWindowEx"
+      - "SendInput"
+      - "SendMessageA"
+      - "SendMessageW"
+      - "SetActiveWindow"
+      - "SetCapture"
+      - "SetCaretPos"
+      - "SetClassLongA"
+      - "SetClipboardData"
+      - "SetCursor"
+      - "SetCursorPos"
+      - "SetFocus"
+      - "SetForegroundWindow"
+      - "SetMenu"
+      - "SetParent"
+      - "SetScrollInfo"
+      - "SetTimer"
+      - "SetWindowLongA"
+      - "SetWindowLongW"
+      - "SetWindowPos"
+      - "SetWindowsHookExA"
+      - "SetWindowTextA"
+      - "SetWindowTextW"
+      - "ShowWindow"
+      - "SystemParametersInfoA"
+      - "ToAscii"
+      - "TrackPopupMenu"
+      - "TranslateMessage"
+      - "UnhookWindowsHookEx"
+      - "UnregisterClassA"
+      - "UpdateWindow"
+      - "VkKeyScanA"
+      - "WaitForInputIdle"
+      - "WindowFromPoint"
+      - "wsprintfA"
+      library_name: "USER32.dll"
+    - imported_functions: 
+      - "accept"
+      - "bind"
+      - "closesocket"
+      - "connect"
+      - "gethostbyaddr"
+      - "gethostbyname"
+      - "gethostname"
+      - "getpeername"
+      - "getservbyname"
+      - "getsockname"
+      - "getsockopt"
+      - "htons"
+      - "inet_addr"
+      - "inet_ntoa"
+      - "ioctlsocket"
+      - "listen"
+      - "ntohs"
+      - "recv"
+      - "select"
+      - "send"
+      - "setsockopt"
+      - "socket"
+      - "WSAAsyncSelect"
+      - "WSACleanup"
+      - "WSAGetLastError"
+      - "WSAStartup"
+      library_name: "WS2_32.dll"
+    machine_type: 332
+    overlay: 
+      chi2: 313.49
+      entropy: 7.999997615814209
+      filetype: "unknown"
+      md5: "e6926e32b0b8aa13a4ac810c0bc4af8f"
+      offset: 2841600
+      size: 290476088
+    resource_details: 
+    - chi2: 24901.35
+      entropy: 2.4458558559417725
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "54afd0b132639c249b7316217fe9d1f4e9f80da89625bc3e091d54d61c170b7d"
+      type: "RT_CURSOR"
+    - chi2: 26302.71
+      entropy: 2.373309373855591
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "2da187c177e80cc71a7c64169045d3e716f507f11aa908ba613722f7827a142a"
+      type: "RT_CURSOR"
+    - chi2: 27850.34
+      entropy: 2.117426633834839
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "df464e31c5a9a9a7b75c41374a755023148056a3bb56d133fb64eacbb89408dd"
+      type: "RT_CURSOR"
+    - chi2: 27852.0
+      entropy: 2.1109330654144287
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "85a2c524051e0ac07f7cecd6df556ae57e37a33e391f8416627e4ad9bdbc7f56"
+      type: "RT_CURSOR"
+    - chi2: 34295.22
+      entropy: 1.573065161705017
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "22af7790499a7034e33f76b98f09321f9b12ba2de9f9a2aa2ab02160394446fc"
+      type: "RT_CURSOR"
+    - chi2: 25607.84
+      entropy: 2.2916412353515625
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "093c5903059e8676eee230a39d3de1eacaee71afaf5e4fb121fabb816eb6d08b"
+      type: "RT_CURSOR"
+    - chi2: 27975.02
+      entropy: 2.176945924758911
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "03db888b835fc959ade574068eab9618c2aa28a389c62f23f73ba2147b44f827"
+      type: "RT_CURSOR"
+    - chi2: 27975.02
+      entropy: 2.180988311767578
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "0c95ddc27eb4f7d1af2b0fc0c3d01e73b427951f805766c4df4e073c4bae6c24"
+      type: "RT_CURSOR"
+    - chi2: 27832.07
+      entropy: 2.155667781829834
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "ac2551e967932bbcb8fdb60d97055670cec4132f638db323cfeff98704c15f2b"
+      type: "RT_CURSOR"
+    - chi2: 29447.85
+      entropy: 1.8872902393341064
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "9f5d8f7dbf0fc4fd9cc9709bb5fb1e3885bf5fb810388d1682f873563c160c49"
+      type: "RT_CURSOR"
+    - chi2: 32720.98
+      entropy: 1.7946935892105103
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "b504fa0fd754d85aac602e4155e0db10d918117a0023ca1d63cf180af955905f"
+      type: "RT_CURSOR"
+    - chi2: 24868.11
+      entropy: 2.393181324005127
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "70f4845750f4f0bd0cd95ce985be38a2bd3f66c646a5c4eece29753b1ccb825d"
+      type: "RT_CURSOR"
+    - chi2: 24866.44
+      entropy: 2.378443956375122
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "de7b2d472d349d90cb3582b2dfe0e1ee7924bec72ed48af45c666ec88b18a92d"
+      type: "RT_CURSOR"
+    - chi2: 24264.67
+      entropy: 2.7178351879119873
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "50b5a860f059bf848a69f12bf5280ef5570e27b6063264798aaef393d9c115f1"
+      type: "RT_CURSOR"
+    - chi2: 27777.21
+      entropy: 2.207610607147217
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "8051a3a97b4f64d0b528127ff6c12b24cec85ce6cbc81b55748272a91a6f1a20"
+      type: "RT_CURSOR"
+    - chi2: 26816.36
+      entropy: 2.056910753250122
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "c883375ca5de70a735f33bba2ff8f67f268a1394dfbc96b9e6b73a0a4939fb9e"
+      type: "RT_CURSOR"
+    - chi2: 24505.7
+      entropy: 2.6430203914642334
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "414e010ff2e1db29a7acd21b9716f512219bad76ef2f02032605a41a65b7905d"
+      type: "RT_CURSOR"
+    - chi2: 28979.06
+      entropy: 1.8204236030578613
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "3b53e25c5e9b1d2ca682aae4996a9f36efbf6fbc3c3f645a7473516a416c0354"
+      type: "RT_CURSOR"
+    - chi2: 26053.35
+      entropy: 2.3830409049987793
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "52ceafb209b73d577c99656a26b5c628690b3fc54b635cfb9f34b099436f523a"
+      type: "RT_CURSOR"
+    - chi2: 28151.22
+      entropy: 2.012925863265991
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "26ab9eec5734d1c814f00cd0ed10d4d1a5bbeec039b17dc2a91a2d2bf6063c6c"
+      type: "RT_CURSOR"
+    - chi2: 26502.18
+      entropy: 2.187361001968384
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "8c5ac49c80f418b1f5eea59e7afe5872b9541ef5a5aa886206851027ac16f758"
+      type: "RT_CURSOR"
+    - chi2: 24199.84
+      entropy: 2.4388632774353027
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "316f88047aeebd9031eca42f2301a532ba4b3796c3d470291cd1baa53f460082"
+      type: "RT_CURSOR"
+    - chi2: 27183.75
+      entropy: 2.2959604263305664
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "c5e080d3fb6920e654b102b332b1cceb203ce6171aefcb0fd55042b96b307d4a"
+      type: "RT_CURSOR"
+    - chi2: 28854.4
+      entropy: 2.1635994911193848
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "4cff249c5a197831dc9185d13171d75238075c5f4305d45ccf3f9dc6e390b0a3"
+      type: "RT_CURSOR"
+    - chi2: 26369.19
+      entropy: 2.3579111099243164
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "a2f10241ef36ffa34a8417553e3a6dff974d71ccc3ac1a6239a35004960f56d5"
+      type: "RT_CURSOR"
+    - chi2: 29587.5
+      entropy: 2.1646504402160645
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "2eca36196ed819581cffed39e0841988e7a846c63412f6122c2e8616ab211ead"
+      type: "RT_CURSOR"
+    - chi2: 25509.76
+      entropy: 2.4244744777679443
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "3c99314261a7e64f2907a99dce2b8313a75b70e088f745cc05e3ee86400131fe"
+      type: "RT_CURSOR"
+    - chi2: 29878.4
+      entropy: 2.0539188385009766
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "837a4b94070a8bb3b9334f81d33213bf7407f19059af3e39e346688a52757709"
+      type: "RT_CURSOR"
+    - chi2: 25400.06
+      entropy: 2.489565372467041
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "885593507b1d73679645995c5af10ba1d9f469147e97784f2219f76d2685bbeb"
+      type: "RT_CURSOR"
+    - chi2: 26098.25
+      entropy: 2.3768973350524902
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "d11ee157dc98fe4baccb7d23c7fd03a4d9bd603a8cc2070af7ca1506a06a334c"
+      type: "RT_CURSOR"
+    - chi2: 25489.83
+      entropy: 2.487699508666992
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "5849221e77474a47849430053b220a0e4cd520ed74e90be7b2823f224245b289"
+      type: "RT_CURSOR"
+    - chi2: 25398.39
+      entropy: 2.5119071006774902
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "906685232b77f97bec7d70c9e910619bf9ba4138af1c93faf9b4828274324634"
+      type: "RT_CURSOR"
+    - chi2: 32345.3
+      entropy: 1.782265067100525
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "78eb6908881b5298a3bbcc98dbf6721c469e67cda41b682fbf931cbaa60de2f3"
+      type: "RT_CURSOR"
+    - chi2: 29492.72
+      entropy: 2.105412483215332
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "c82cd0e878bbd6c01c1c2399b7c728bac56ff58896406e850f7064648b107011"
+      type: "RT_CURSOR"
+    - chi2: 27433.1
+      entropy: 2.203533411026001
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "a0f6b66910eddfb754c22daf36d4b6063c72bcc135029c2e603226d53c1926d0"
+      type: "RT_CURSOR"
+    - chi2: 29818.55
+      entropy: 1.9879664182662964
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "b0604ec33d67747ad2a7b5a784c00356c2ecc2c5f237cdabf32d971fc0c9734f"
+      type: "RT_CURSOR"
+    - chi2: 29175.22
+      entropy: 1.9004617929458618
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "e6b80bb87931b12bbb45968c2f19e3f445e1f061e04aed6da8e7f21d82e55588"
+      type: "RT_CURSOR"
+    - chi2: 27891.9
+      entropy: 2.045344352722168
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "4b62d677376a933793ab868588beb8897040f0d138dd47b215136d468218bc20"
+      type: "RT_CURSOR"
+    - chi2: 30814.29
+      entropy: 1.794724464416504
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "23447e035b9abf8a5a4ada21d293ee6ce0c0a192ffa0e50d659e90a0e1755308"
+      type: "RT_CURSOR"
+    - chi2: 30812.62
+      entropy: 1.7971752882003784
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "90aa3ce6853794cb1d687efe19b6e04fa0c534a2bc9a693a1c14c124a51a8680"
+      type: "RT_CURSOR"
+    - chi2: 24286.28
+      entropy: 2.6249353885650635
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "a20fed0cc324287dce25a8cfb57f5fa54d89744b38219d3a90623a775542931e"
+      type: "RT_CURSOR"
+    - chi2: 27911.85
+      entropy: 2.0242722034454346
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "b9c22743865bbe4a896a87a55fc97e2c49a0915f68e5cbdb30f4c8e5637aa73d"
+      type: "RT_CURSOR"
+    - chi2: 28277.55
+      entropy: 2.163126230239868
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "a85876684db4a16b06fd12a9b22673ba2184de6ea0cdbc3e383bf0f3867c8031"
+      type: "RT_CURSOR"
+    - chi2: 26440.68
+      entropy: 2.4097838401794434
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "3b26ba835983c6b7a9dc01a19612c7042eea2433c81b189aa46b57694c6670e0"
+      type: "RT_CURSOR"
+    - chi2: 24299.58
+      entropy: 2.607905864715576
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "6aaf80d924cd4335e2923b12120fb33348b6fe096f12a3935d2d22ceda89f9fb"
+      type: "RT_CURSOR"
+    - chi2: 28191.12
+      entropy: 1.9912053346633911
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "79d9da4b904a877af099018d16a0e18ef0b086bd069462d3876573241f29bb97"
+      type: "RT_CURSOR"
+    - chi2: 24570.55
+      entropy: 2.496020793914795
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "02cbfc20fce6413b114e5ac155f39c121db6d852fea72015db482f0212736616"
+      type: "RT_CURSOR"
+    - chi2: 27022.5
+      entropy: 2.231619358062744
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "c6dc6dd0700dfb0cd821c88b4a77abd544d4f2e5e90033c1ba811bab95a2d28a"
+      type: "RT_CURSOR"
+    - chi2: 29994.75
+      entropy: 1.974434494972229
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "25d01e0ba9fb4e85e44e6181ec8cbcd1525fdeea19783d450c759d6f21d3ad63"
+      type: "RT_CURSOR"
+    - chi2: 29168.57
+      entropy: 1.9121813774108887
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "66a5bd5a73283ef194ac763378e1850c1117bfa3dccde9f424a0c6ec70796106"
+      type: "RT_CURSOR"
+    - chi2: 29020.62
+      entropy: 1.9521578550338745
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "157a610311955f7deb326cafb6289a1feae1282fd4075df3e21c361acb56c18e"
+      type: "RT_CURSOR"
+    - chi2: 28498.65
+      entropy: 2.1206705570220947
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "b26c0753b490f82c85e4de891f1db5fe9e3c38572f2c1fbe4ae329d9522074e1"
+      type: "RT_CURSOR"
+    - chi2: 26360.89
+      entropy: 2.278681993484497
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "332c704b1c475898e1f7bbcb9243d4d8ce02ac27e048158c5ee9c5f045107b9c"
+      type: "RT_CURSOR"
+    - chi2: 25230.5
+      entropy: 2.254070281982422
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "11f7ffbd26016f67bb2bcebc57982281b9b9401ce6ee43efb841fe88934296c3"
+      type: "RT_CURSOR"
+    - chi2: 30091.17
+      entropy: 1.9915111064910889
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "7c4b136be238a5021b92d60b305b3486f6fa4aa1028e64c5a9057fe6354bebb7"
+      type: "RT_CURSOR"
+    - chi2: 34015.95
+      entropy: 1.6057507991790771
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "1770d57a62bd5d219d077bead8364a3af8755a5f68bce1b0a603af680a64aa6b"
+      type: "RT_CURSOR"
+    - chi2: 34015.95
+      entropy: 1.6106526851654053
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "445771b802d5eefdce420700dbf54bd96eb3d697742e60831bd7cd45edcd85b0"
+      type: "RT_CURSOR"
+    - chi2: 24371.06
+      entropy: 2.3037924766540527
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "14817174ac9a708983e0f8d5e8c61e4d69c07bb6048b36dae436187962477bcc"
+      type: "RT_CURSOR"
+    - chi2: 25755.79
+      entropy: 2.300079822540283
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "2af83d022d640925a7714735bdc4b6a4750cdf151d772f6a14d645e13ca1a1b0"
+      type: "RT_CURSOR"
+    - chi2: 28556.85
+      entropy: 2.1384918689727783
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "327cc083cdfa30a53908551d15411de4f8809260e1a0d51bfe4379c7dde97375"
+      type: "RT_CURSOR"
+    - chi2: 28247.64
+      entropy: 2.2227513790130615
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "a9019bedd18f95def4d90b5d04546eba102a61380fdf0e435974719b654cf539"
+      type: "RT_CURSOR"
+    - chi2: 23892.31
+      entropy: 2.548692464828491
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "f201037dbd4ae78f980ca9b2417c85e6035c4b2ab4bc93245718af0309efa03d"
+      type: "RT_CURSOR"
+    - chi2: 27228.63
+      entropy: 2.1831603050231934
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "3d743ecbe009e31c3e6f9158be2149795ad557a706dd9d6e0f883b25b3b9ae74"
+      type: "RT_CURSOR"
+    - chi2: 24977.82
+      entropy: 2.599161386489868
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "5f8b742cf8334793c30b864919df7725885f18853ca7d645c3bb6b7c2d8b5728"
+      type: "RT_CURSOR"
+    - chi2: 25341.87
+      entropy: 2.451812982559204
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "38c486782083dcedaf49a7c0dcd9bc8e32c9f4152985eb42e0992a48ea2397cc"
+      type: "RT_CURSOR"
+    - chi2: 29422.91
+      entropy: 1.8035132884979248
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "afd85054cfb4ec5335d1a2a076a303bb631f984eea5f2125b42d1e10b900d50d"
+      type: "RT_CURSOR"
+    - chi2: 26783.12
+      entropy: 2.3255503177642822
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "f2c3237b39ab677068eb6aec117b173db6953aac212ca0a08e455ba626fc05a8"
+      type: "RT_CURSOR"
+    - chi2: 27980.0
+      entropy: 2.166409969329834
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "96656f6c9c810897d6a0da9bad8fe10bf438deec60304aa20a59e68e116276d1"
+      type: "RT_CURSOR"
+    - chi2: 27978.35
+      entropy: 2.176945924758911
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "3bb75f80c7882018a8420a5376194c5eab7c96cea45725087bad61b1ffd78a54"
+      type: "RT_CURSOR"
+    - chi2: 27335.03
+      entropy: 2.186187744140625
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "1a519bcb54dab367183a96171b968fbf2855948bc0b503381abc789b5e19682d"
+      type: "RT_CURSOR"
+    - chi2: 29447.85
+      entropy: 1.8872902393341064
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "5a0c05a1381d7b9f524dfee6d1830f8b47ff5f9fc3ccfa1b4b8b43eedce7ef31"
+      type: "RT_CURSOR"
+    - chi2: 24823.22
+      entropy: 2.483607769012451
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "fb6f253f96d18e5cd46708ea385fde3a1a1ff0908a98d9f8f21d0c6ae0326589"
+      type: "RT_CURSOR"
+    - chi2: 30819.27
+      entropy: 1.7910059690475464
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "a2425bd3b53a5025c387278eb38f883e98bf5523ba2361575d3dc30dd3e89612"
+      type: "RT_CURSOR"
+    - chi2: 27243.59
+      entropy: 2.2521092891693115
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "211a8acdba073fdccb2a5f2a0357904c40e1a55aa1b5b92a6dc82864ae34f4d0"
+      type: "RT_CURSOR"
+    - chi2: 30810.96
+      entropy: 1.803668737411499
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "6362f3b3525083f8a3b4d4a117929c323def3657cac70aec0aff1f92cfedafdf"
+      type: "RT_CURSOR"
+    - chi2: 27228.62
+      entropy: 2.2487990856170654
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "ef6d849bd28e64f6a7d36030786f86c106ef6e4fa36e2484e95a5139f6b4e5f1"
+      type: "RT_CURSOR"
+    - chi2: 27112.26
+      entropy: 2.121108293533325
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "c926ab04a531d3277feb3eb3a20636c316fd5e50259931281967f3970cf18545"
+      type: "RT_CURSOR"
+    - chi2: 38269.87
+      entropy: 1.1415070295333862
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "946370032ee874d7b229ac7cb89703f59dee1de76607bcc6bd82d8e437cc8074"
+      type: "RT_CURSOR"
+    - chi2: 18390.77
+      entropy: 4.2967963218688965
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "719e99e0a7fccfb865e5df39a0b44ac02bb6e6754c50390793889d533130bd42"
+      type: "RT_BITMAP"
+    - chi2: 957218.31
+      entropy: 3.174891471862793
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "51705b64cb21e13332ade9196c71cdf876e15cf6cc215f3bc3e64900de4e72fb"
+      type: "RT_ICON"
+    - chi2: 502526.25
+      entropy: 3.5608341693878174
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "686c0f18ac06d79a19f98764715a40599ba2c23e02d6f43f978ad93a762ca6a9"
+      type: "RT_ICON"
+    - chi2: 1974.45
+      entropy: 7.892321586608887
+      filetype: "PNG"
+      lang: "ENGLISH US"
+      sha256: "08a8f5aea0f69f906f8ca15627c4d55050ae464c4d5650d035d470d899330db9"
+      type: "RT_ICON"
+    - chi2: 197024.25
+      entropy: 3.911947250366211
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "c31600eef26fe31894d04fd542451f6dd468d05af41751e1a3502e63a00c532c"
+      type: "RT_ICON"
+    - chi2: 87135.45
+      entropy: 4.5123701095581055
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "d190ee1b15acb4d21c756bd203f3869d04fb758d867ecac801c356f2e5e6f8fc"
+      type: "RT_ICON"
+    - chi2: 27891.23
+      entropy: 5.287624359130859
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "61b101644fbaff5f8ccb8d237d1d145b927e4bc1cd38d0e4316c4ace1cf702ef"
+      type: "RT_ICON"
+    - chi2: 46057.95
+      entropy: 3.4757020473480225
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "63175c578413b3fb91c97624e7622e5b84332ead1d99ad70aefc18b7bb629dfb"
+      type: "RT_DIALOG"
+    - chi2: 1823.2
+      entropy: 1.9192407131195068
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "b07e022f8ef0a8e5fd3f56986b2e5bf06df07054e9ea9177996b0a6c27d74d7c"
+      type: "RT_GROUP_CURSOR"
+    - chi2: 1797.6
+      entropy: 2.0192408561706543
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "43f40dd5140804309a4c901ec3c85b54481316e67a6fe18beb9d5c0ce3a42c3a"
+      type: "RT_GROUP_CURSOR"
+    - chi2: 1797.6
+      entropy: 2.0192408561706543
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "ff47a48c11c234903a7d625cb8b62101909f735ad84266c98dd4834549452c39"
+      type: "RT_GROUP_CURSOR"
+    - chi2: 1797.6
+      entropy: 2.0192408561706543
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "a0adcedb82b57089f64e2857f97cefd6cf25f4d27eefc6648bda83fd5fef66bb"
+      type: "RT_GROUP_CURSOR"
+    - chi2: 1797.6
+      entropy: 2.0192408561706543
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "6e1e7738a1b6373d8829f817915822ef415a1727bb5bb7cfe809e31b3c143ac5"
+      type: "RT_GROUP_CURSOR"
+    - chi2: 1797.6
+      entropy: 2.0192408561706543
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "326c048595bbc72e3f989cb3b95fbf09dc83739ced3cb13eb6f03336f95d74f1"
+      type: "RT_GROUP_CURSOR"
+    - chi2: 1797.6
+      entropy: 2.0192408561706543
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "ec26c438d10e3e84ec855c47f07a176e6c11bbfae1557d526490711b80f087fe"
+      type: "RT_GROUP_CURSOR"
+    - chi2: 1797.6
+      entropy: 2.0192408561706543
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "9c17b4621412d6ded24a76aed74d4425ae61f86b6d4092ca1e28ca66b7c71399"
+      type: "RT_GROUP_CURSOR"
+    - chi2: 1797.6
+      entropy: 2.0192408561706543
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "a92f60b25322592e7ddd13d88e4006c097666f4d87c8cb0c21ffdccd53b31d78"
+      type: "RT_GROUP_CURSOR"
+    - chi2: 1797.6
+      entropy: 2.0192408561706543
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "28b8110695851e5280ff55cb78507b03e8b74dd370b8e122179c82b56f7e5f37"
+      type: "RT_GROUP_CURSOR"
+    - chi2: 1797.6
+      entropy: 2.0192408561706543
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "8a495f17bc472bfc5e6923d9efa687848fac027ad60694f9c3f10a4f7b194924"
+      type: "RT_GROUP_CURSOR"
+    - chi2: 1797.6
+      entropy: 2.0192408561706543
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "a2f0549cca7170ae03ba042464efe62365fba38c20049e439871c9e5ce0f914f"
+      type: "RT_GROUP_CURSOR"
+    - chi2: 1797.6
+      entropy: 2.0192408561706543
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "ef309b720f166673cad840a88e7636e9161ad91415cc7c176010cebba07757e5"
+      type: "RT_GROUP_CURSOR"
+    - chi2: 1797.6
+      entropy: 2.0192408561706543
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "4ecc7f2578fd7b137c04f85ffcbd67d6eab0bc8b1df4246cebd2a2aa517f3c60"
+      type: "RT_GROUP_CURSOR"
+    - chi2: 1797.6
+      entropy: 2.0192408561706543
+      filetype: "unknown"
+      lang: "ENGLISH US"
+      sha256: "12a5b9052dd16bed260343bc4352d436167c991c54497c5af441304646549386"
+      type: "RT_GROUP_CURSOR"
+    resource_langs: 
+      ENGLISH US: 167
+    resource_types: 
+      RT_BITMAP: 1
+      RT_CURSOR: 78
+      RT_DIALOG: 1
+      RT_GROUP_CURSOR: 78
+      RT_GROUP_ICON: 1
+      RT_ICON: 6
+      RT_MANIFEST: 1
+      RT_VERSION: 1
+    sections: 
+    - chi2: 17410910.0
+      entropy: 6.12
+      flags: "rx"
+      md5: "6aed8347b17fc2f9f560ed1ca701df12"
+      name: ".text"
+      raw_size: 1911808
+      virtual_address: 4096
+      virtual_size: 1911700
+    - chi2: 8712019.0
+      entropy: 3.52
+      flags: "rw"
+      md5: "cddecfaa22d05fffc7c0348957d1805e"
+      name: ".data"
+      raw_size: 82432
+      virtual_address: 1916928
+      virtual_size: 81932
+    - chi2: 3651931.0
+      entropy: 5.85
+      flags: "r"
+      md5: "f353c9d43a8d1c828b747fa74700e5aa"
+      name: ".rdata"
+      raw_size: 271872
+      virtual_address: 2002944
+      virtual_size: 271808
+    - chi2: 6282484.0
+      entropy: 5.03
+      flags: "r"
+      md5: "83e1d72d9b9d3e6a41ba0cc152e29525"
+      name: "/4"
+      raw_size: 334336
+      virtual_address: 2277376
+      virtual_size: 333872
+    - chi2: -1.0
+      entropy: 0.0
+      flags: "rw"
+      md5: "d41d8cd98f00b204e9800998ecf8427e"
+      name: ".bss"
+      raw_size: 0
+      virtual_address: 2613248
+      virtual_size: 7112
+    - chi2: 96833.0
+      entropy: 1.28
+      flags: "r"
+      md5: "3771e316dd8e3cbdfafd6059c043cdd5"
+      name: ".edata"
+      raw_size: 512
+      virtual_address: 2621440
+      virtual_size: 110
+    - chi2: 270451.06
+      entropy: 5.44
+      flags: "rw"
+      md5: "6ffc5b3dc9e6bfcac8a30eed25226f7c"
+      name: ".idata"
+      raw_size: 15872
+      virtual_address: 2625536
+      virtual_size: 15364
+    - chi2: 128017.0
+      entropy: 0.09
+      flags: "rw"
+      md5: "b66dabd1396f1b923e647426c2230bd8"
+      name: ".CRT"
+      raw_size: 512
+      virtual_address: 2641920
+      virtual_size: 24
+    - chi2: 124498.0
+      entropy: 0.23
+      flags: "rw"
+      md5: "956431462dd9630284f6bfe17a904bfb"
+      name: ".tls"
+      raw_size: 512
+      virtual_address: 2646016
+      virtual_size: 32
+    - chi2: 15756406.0
+      entropy: 2.86
+      flags: "rw"
+      md5: "26510188f7c2031fa95d59ea5795e69b"
+      name: ".rsrc"
+      raw_size: 142336
+      virtual_address: 2650112
+      virtual_size: 142132
+    - chi2: 321929.91
+      entropy: 6.61
+      flags: "r"
+      md5: "6798df635f9f94d0002cf0ecf2c4d04d"
+      name: ".reloc"
+      raw_size: 80384
+      virtual_address: 2793472
+      virtual_size: 79952
+    timestamp: 1476861305
+  reputation: 0
+  sandbox_verdicts: 
+    Zenbox: 
+      category: "harmless"
+      confidence: 81
+      malware_classification: 
+      - "CLEAN"
+      sandbox_name: "Zenbox"
+  sha1: "acaac1f2f230ccc01b9f3aa2be68056af98b92da"
+  sha256: "abe5b31ccd23e02d0e1489acc2cb12c075cedd6e4a24f5718111d05845fc9feb"
+  signature_info: 
+    copyright: "Copyright Rapid7"
+    counter signers: "DigiCert SHA256 RSA4096 Timestamp Responder 2025 1; DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1; DigiCert Trusted Root G4; DigiCert"
+    counter signers details: 
+    - algorithm: "sha256RSA"
+      cert issuer: "DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1"
+      name: "DigiCert SHA256 RSA4096 Timestamp Responder 2025 1"
+      serial number: "0A 80 EF 18 4B 8D F1 05 82 D1 C4 76 A7 95 74 68"
+      status: "Valid"
+      thumbprint: "DD6230AC860A2D306BDA38B16879523007FB417E"
+      valid from: "12:00 AM 06/04/2025"
+      valid to: "11:59 PM 09/03/2036"
+      valid usage: "Timestamp Signing"
+    - algorithm: "sha256RSA"
+      cert issuer: "DigiCert Trusted Root G4"
+      name: "DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1"
+      serial number: "0D C7 AC 57 05 FF 21 99 2E 40 43 22 0C 3A 49 86"
+      status: "Valid"
+      thumbprint: "07894D00FC194A17DB273AEB5CF8FACEF14423A4"
+      valid from: "12:00 AM 05/07/2025"
+      valid to: "11:59 PM 01/14/2038"
+      valid usage: "Timestamp Signing"
+    - algorithm: "sha384RSA"
+      cert issuer: "DigiCert Assured ID Root CA"
+      name: "DigiCert Trusted Root G4"
+      serial number: "0E 9B 18 8E F9 D0 2D E7 EF DB 50 E2 08 40 18 5A"
+      status: "Valid"
+      thumbprint: "A99D5B79E9F1CDA59CDAB6373169D5353F5874C6"
+      valid from: "12:00 AM 08/01/2022"
+      valid to: "11:59 PM 11/09/2031"
+      valid usage: "All"
+    - algorithm: "sha1RSA"
+      cert issuer: "DigiCert Assured ID Root CA"
+      name: "DigiCert"
+      serial number: "0C E7 E0 E5 17 D8 46 FE 8F E5 60 FC 1B F0 30 39"
+      status: "Valid"
+      thumbprint: "0563B8630D62D75ABBC8AB1E4BDFB5A899B24D43"
+      valid from: "12:00 AM 11/10/2006"
+      valid to: "12:00 AM 11/10/2031"
+      valid usage: "Client Auth, Code Signing, Email Protection, Server Auth, Timestamp Signing"
+    file version: "1.0.0.0"
+    original name: "setup.exe"
+    product: "Metasploit"
+    signers: "Rapid7 LLC; DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1; DigiCert Trusted Root G4; DigiCert"
+    signers details: 
+    - algorithm: "sha256RSA"
+      cert issuer: "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1"
+      name: "Rapid7 LLC"
+      serial number: "0B AB 85 69 09 C1 5A B3 0F 22 85 AE D9 4C 8C 37"
+      status: "Valid"
+      thumbprint: "8DD67269B148092AC5A14A4982C920C9FDCA3B91"
+      valid from: "12:00 AM 10/16/2023"
+      valid to: "11:59 PM 12/04/2026"
+      valid usage: "Code Signing"
+    - algorithm: "sha384RSA"
+      cert issuer: "DigiCert Trusted Root G4"
+      name: "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1"
+      serial number: "08 AD 40 B2 60 D2 9C 4C 9F 5E CD A9 BD 93 AE D9"
+      status: "Valid"
+      thumbprint: "7B0F360B775F76C94A12CA48445AA2D2A875701C"
+      valid from: "12:00 AM 04/29/2021"
+      valid to: "11:59 PM 04/28/2036"
+      valid usage: "Code Signing"
+    - algorithm: "sha384RSA"
+      cert issuer: "DigiCert Assured ID Root CA"
+      name: "DigiCert Trusted Root G4"
+      serial number: "0E 9B 18 8E F9 D0 2D E7 EF DB 50 E2 08 40 18 5A"
+      status: "Valid"
+      thumbprint: "A99D5B79E9F1CDA59CDAB6373169D5353F5874C6"
+      valid from: "12:00 AM 08/01/2022"
+      valid to: "11:59 PM 11/09/2031"
+      valid usage: "All"
+    - algorithm: "sha1RSA"
+      cert issuer: "DigiCert Assured ID Root CA"
+      name: "DigiCert"
+      serial number: "0C E7 E0 E5 17 D8 46 FE 8F E5 60 FC 1B F0 30 39"
+      status: "Valid"
+      thumbprint: "0563B8630D62D75ABBC8AB1E4BDFB5A899B24D43"
+      valid from: "12:00 AM 11/10/2006"
+      valid to: "12:00 AM 11/10/2031"
+      valid usage: "Client Auth, Code Signing, Email Protection, Server Auth, Timestamp Signing"
+    signing date: "07:59 PM 08/04/2025"
+    verified: "Signed"
+    x509: 
+    - algorithm: "sha256RSA"
+      cert issuer: "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1"
+      name: "Rapid7 LLC"
+      serial number: "0B AB 85 69 09 C1 5A B3 0F 22 85 AE D9 4C 8C 37"
+      thumbprint: "8DD67269B148092AC5A14A4982C920C9FDCA3B91"
+      thumbprint_md5: "BF9FBFA6D5C3112819B0F75DB48682E0"
+      thumbprint_sha256: "8619486CD757C7035CBCAA97885B145F63D955220C5BA3BEA25B4475BE180DF0"
+      valid from: "2023-10-16 00:00:00"
+      valid to: "2026-12-04 23:59:59"
+      valid usage: "Code Signing"
+    - algorithm: "sha384RSA"
+      cert issuer: "DigiCert Trusted Root G4"
+      name: "DigiCert Trusted Root G4"
+      serial number: "05 9B 1B 57 9E 8E 21 32 E2 39 07 BD A7 77 75 5C"
+      thumbprint: "DDFB16CD4931C973A2037D3FC83A4D7D775D05E4"
+      thumbprint_md5: "78F2FCAA601F2FB4EBC937BA532E7549"
+      thumbprint_sha256: "552F7BDCF1A7AF9E6CE672017F4F12ABF77240C78E761AC203D1D9D20AC89988"
+      valid from: "2013-08-01 12:00:00"
+      valid to: "2038-01-15 12:00:00"
+    - algorithm: "sha384RSA"
+      cert issuer: "DigiCert Trusted Root G4"
+      name: "DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1"
+      serial number: "08 AD 40 B2 60 D2 9C 4C 9F 5E CD A9 BD 93 AE D9"
+      thumbprint: "7B0F360B775F76C94A12CA48445AA2D2A875701C"
+      thumbprint_md5: "D91299E84355CD8D5A86795A0118B6E9"
+      thumbprint_sha256: "46011EDE1C147EB2BC731A539B7C047B7EE93E48B9D3C3BA710CE132BBDFAC6B"
+      valid from: "2021-04-29 00:00:00"
+      valid to: "2036-04-28 23:59:59"
+      valid usage: "Code Signing"
+    - algorithm: "sha384RSA"
+      cert issuer: "DigiCert Assured ID Root CA"
+      name: "DigiCert Trusted Root G4"
+      serial number: "0E 9B 18 8E F9 D0 2D E7 EF DB 50 E2 08 40 18 5A"
+      thumbprint: "A99D5B79E9F1CDA59CDAB6373169D5353F5874C6"
+      thumbprint_md5: "8DDD0BC6D9D770EB6B2B671A862855CC"
+      thumbprint_sha256: "33846B545A49C9BE4903C60E01713C1BD4E4EF31EA65CD95D69E62794F30B941"
+      valid from: "2022-08-01 00:00:00"
+      valid to: "2031-11-09 23:59:59"
+    - algorithm: "sha256RSA"
+      cert issuer: "DigiCert Trusted Root G4"
+      name: "DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1"
+      serial number: "0D C7 AC 57 05 FF 21 99 2E 40 43 22 0C 3A 49 86"
+      thumbprint: "07894D00FC194A17DB273AEB5CF8FACEF14423A4"
+      thumbprint_md5: "E845C30BA9F058B0FEA9954092E1F0C0"
+      thumbprint_sha256: "CA0B1554ECD901EA19DCAD8749E9F2648C8D6DFCEA1ADD9D2C2109415BB82CCD"
+      valid from: "2025-05-07 00:00:00"
+      valid to: "2038-01-14 23:59:59"
+      valid usage: "Timestamp Signing"
+    - algorithm: "sha256RSA"
+      cert issuer: "DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1"
+      name: "DigiCert SHA256 RSA4096 Timestamp Responder 2025 1"
+      serial number: "0A 80 EF 18 4B 8D F1 05 82 D1 C4 76 A7 95 74 68"
+      thumbprint: "DD6230AC860A2D306BDA38B16879523007FB417E"
+      thumbprint_md5: "39C1227923AB74F563D9232882A78F50"
+      thumbprint_sha256: "4AA03FA22CD75C84C55C938F828E676B9CAECAB33FE36D269AA334F146110A33"
+      valid from: "2025-06-04 00:00:00"
+      valid to: "2036-09-03 23:59:59"
+      valid usage: "ff"
+  size: 293317688
+  ssdeep: "6291456:MQNKgTax4ZIVt1gw2cPoNL5EAm4D2ZQAkxaAI:zN9TgmiP2cPxgaAI"
+  tags: 
+  - "checks-cpu-name"
+  - "signed"
+  - "detect-debug-environment"
+  - "persistence"
+  - "peexe"
+  - "overlay"
+  times_submitted: 4
+  tlsh: "T1C5E83358FF8750F5EE279836854BF23F5B64AA018421FFE6EF493A09FC33912A425251"
+  total_votes: 
+    harmless: 0
+    malicious: 0
+  trid: 
+  - file_type: "InstallShield setup"
+    probability: 34.2
+  - file_type: "Win32 Executable MS Visual C++ (generic)"
+    probability: 24.8
+  - file_type: "Microsoft Visual C++ compiled executable (generic)"
+    probability: 13.1
+  - file_type: "Win64 Executable (generic)"
+    probability: 8.3
+  - file_type: "Win32 Dynamic Link Library (generic)"
+    probability: 5.2
+  type_description: "Win32 EXE"
+  type_extension: "exe"
+  type_tag: "peexe"
+  type_tags: 
+  - "executable"
+  - "windows"
+  - "win32"
+  - "pe"
+  - "peexe"
+  unique_sources: 4
+  vhash: "0280b76d15555c051d5d1070106004900a10b5z3075z62z7d4z1a6z2"
