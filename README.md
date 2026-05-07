@@ -12,3 +12,4 @@
 | [Wireless Cracking](./wireless-cracking) | 🔄 In Progress | aircrack, airodump, hashcat |
 | [Guilty Until Proven Innocent](./guilty-until-proven-innocent) | ✅ Complete | malware analysis, OSINT, RE |
 | [BeEF XSS](./beef-xss) | 🔄 In Progress | XSS, session hijacking |
+| [Home SOC — Repurposed Hardware](./home-soc) | 🔄 In Progress | pi-hole, unbound, wireguard, suricata, zeek, elastic stack, SIEM, and more!  |
